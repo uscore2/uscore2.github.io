@@ -1,0 +1,66 @@
+---
+title: Contact
+heading: Get in touch today
+description: 
+map:
+  latitude: 53.468077
+  longitude: -2.233533
+  address: " The University of Manchester, Oxford Rd, Manchester, M13 9PL, UK"
+  zoom: 13
+---
+
+<!-- <div class="map" id="map"></div> -->
+
+<div class="contact-box">
+	<form action="https://formspree.io/a.dempsey@manchester.gov.uk" method="post" class="contact-form">
+		<input type="hidden"/>
+		<input type="text" name="_gotcha" style="display: none;">
+		<input type="hidden" name="_subject" value="New submission from uscore2.eu!" />
+		<input type="hidden" name="_cc" value="j.percival@manchester.gov.uk" />
+
+		<label for="name">Full Name</label>
+		<input type="text" name="name" id="name" placeholder="Enter your name..." />
+
+		<label for="email">Email Address</label>
+		<input type="email" name="email" id="email" placeholder="Enter your email..." required />
+
+		<label for="message">Message</label>
+		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+
+		<input type="submit" value="Send Message" />
+	</form>
+
+	<div class="contact-details">
+		<h3 class="editable">Address</h3>
+		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
+	</div>
+</div>
+
+<!-- <script type="text/javascript">
+	window.mapData = {{ page.map | jsonify }};
+
+	function initMap() {
+		var myOptions = {
+			scrollwheel: false,
+			draggable: false,
+			panControl: false,
+			disableDefaultUI: true,
+			zoom: window.mapData.zoom,
+			maxZoom: window.mapData.zoom,
+			minZoom: window.mapData.zoom,
+			center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		map = new google.maps.Map(document.getElementById("map"), myOptions);
+		marker = new google.maps.Marker({
+			map: map,
+			position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
+		});
+
+		google.maps.event.addDomListener(window, "resize", function () {
+			map.setCenter(myOptions.center);
+		});
+	}
+</script> -->
+
+<!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script> -->

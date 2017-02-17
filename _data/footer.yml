@@ -1,0 +1,38 @@
+- links: 
+  - col_title: About
+  - name: Who we are
+    link: /about/
+  - name: Project objectives
+    link: /objectives/
+- links:
+  - col_title: Partners
+  - name: Amadora - Portugal
+    link: /partners/amadora/
+    new_window: true
+  - name: Viggiano – Italy
+    link: /partners/viggiano/
+    new_window: true
+  - name: Salford - United Kingdom
+    link: /partners/salford/
+    new_window: true
+  - name: University of Manchester - United Kingdom
+    link: /partners/university_of_manchester/
+    new_window: true
+- links:
+  - col_title: Tools
+  - name: Tool kit
+    link: /toolkit/
+    new_window: true
+  - name: Documents
+    link: /documents/
+    new_window: true
+- links:
+  - col_title: Social
+  - name: Twitter
+    link: https://twitter.com/UScore2EU
+    social_icon: Twitter
+    new_window: true
+  - name: YouTube
+    link: https://youtube.com
+    social_icon: YouTube
+    new_window: true

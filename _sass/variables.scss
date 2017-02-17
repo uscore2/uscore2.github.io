@@ -1,0 +1,19 @@
+
+/* Palet */
+$white: #f8f8f8;
+$orange: #fc9541;
+$dark_orange: #f15a24;
+$light_blue: #a1b7cc;
+$blue: #48688e;
+$dark_blue: #061b34;
+$dark_gray: #3e3d3d;
+
+$brand-color: $orange;
+
+$secondary-brand-color: $orange;
+$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+
+// Breakpoints
+$tablet: "(min-width: 450px)";
+$mid-point: "(min-width: 620px)";
+$desktop: "(min-width: 768px)";

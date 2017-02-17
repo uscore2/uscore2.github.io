@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="titleBanner">
+		<div class="text-container flex">
+			<div class="titleBanner-block">
+			{% if page.heading %}
+				<h2>{{ page.heading }}</h2>
+			{% elsif page.title and page.layout != 'archive' %}
+				<h2>{{ page.title }}</h2>
+			{% endif %}
+			</div>
+		</div>
+</section>
+<div class="content">
+	<section class="page">
+		<div class="container {% if page.full_width %}max-container{% endif %}">
+
+			{{ content }}
+		</div>
+	</section>
+</div>
