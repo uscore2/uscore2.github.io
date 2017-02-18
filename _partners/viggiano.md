@@ -27,7 +27,8 @@ map:
 			<div class="testimonial-block">
 				<blockquote>
 					<p class="editable">I wish to be fully engaged in developing environmental sustainability and territorial safety in the urban and land-use government actions. To this aim, our community will actively participate with the Province of Potenza in the action proposed for strengthening territorial resilience by adopting local policies and specific actions.</p>
-					<p class="editable">Amedeo Cicala, MAYOR</p>
+					<p class="profile_author">Amedeo Cicala</p>
+					<p>Mayor</p>
 				</blockquote>
 			</div>
 		</div>

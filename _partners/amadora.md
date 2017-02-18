@@ -28,7 +28,8 @@ map:
 			<div class="testimonial-block">
 				<blockquote>
 					<p class="editable">The risks are a biophysical fragility of the territory. Their impact on the infrastructures and population involve a strong strategy. Preparedness, mitigation, prevention are the key of success. Our task is promote a campaign with maximum possible number of agents from the local,scientific and academic communities, demonstrating the relevance of risk reduction and of the amount of natural disasters that afflict the territory.</p>
-					<p class="editable">Carla Tavares, MAYOR</p>
+					<p class="profile_author">Carla Tavares</p>
+					<p>Mayor</p>
 				</blockquote>
 			</div>
 		</div>

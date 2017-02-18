@@ -29,7 +29,8 @@ map:
 			<div class="testimonial-block">
 				<blockquote>
 					<p class="editable">Working in partnership helps residents and businesses to recognise opportunities to realise our ambitions whilst meeting the challenges of a changing risk landscape. Greater Manchester is stronger together.</p>
-					<p class="editable">Mr. Tony Lloyd, MAYOR</p>
+					<p class="profile_author">Mr. Tony Lloyd</p>
+					<p>Mayor</p>
 				</blockquote>
 			</div>
 		</div>

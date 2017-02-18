@@ -235,6 +235,12 @@ blockquote {
     margin: 10px 0 0 0;
     font-size: .85em;
     font-style: normal; }
+  blockquote .profile_author {
+    display: block;
+    font-weight: bold;
+    margin: 10px 0 0 0;
+    font-size: .85em;
+    font-style: normal; }
   blockquote p {
     display: inline; }
 
