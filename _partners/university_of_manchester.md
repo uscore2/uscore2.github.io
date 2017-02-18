@@ -23,7 +23,7 @@ map:
 			<div class="testimonial-block">
 				<blockquote>
 					<p class="editable">Uscore2 offers a unique and exciting opportunity to work with leading cities in civil protection to create a useable tool that will enhance the peer review process for disaster risk reduction. Manchester University is supporting the design and evaluation of this tool to ensure widespread impact through even stronger city learning and adoption of resilience practices.</p>
-					<p class="editable">Professor Duncan Shaw, PROFESSOR OF OPERATIONS AND CRITICAL SYSTEMS</p>
+					<p class="editable">Professor Duncan Shaw, Alliance Manchester Business School and the Humanitarian & Conflict Research Institute (HCRI)</p>
 				</blockquote>
 			</div>
 		</div>
