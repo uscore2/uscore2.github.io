@@ -38,6 +38,20 @@ defaults:
     path: contact.html
   values:
     full_width: true
+prose:
+  rooturl:
+  media: media
+  ignore:
+  - index.md
+  - _config.yml
+  -"/_saas"
+  -"/css"
+  _"/js"
+  _"/.gitignore"
+  _"Gemfile"
+  _"Gemfile.lock"
+  - "/_layouts"
+  - "/_includes"
 url: http://www.uscore2.eu
 baseurl: 
 google_analytics_key: "UA-92708806-1"
