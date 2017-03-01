@@ -1,5 +1,5 @@
 ---
-title: index.html
+title: Home
 description: null
 image: /images/control_room.jpg
 published: true
