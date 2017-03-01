@@ -42,9 +42,8 @@ prose:
   rooturl:
   media: media
   ignore:
-  - index.md
+  - index.html
   - _config.yml
-  -"/_saas"
   - "/_layouts"
   - "/_includes"
 url: http://www.uscore2.eu
