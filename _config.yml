@@ -45,11 +45,6 @@ prose:
   - index.md
   - _config.yml
   -"/_saas"
-  -"/css"
-  _"/js"
-  _.gitignore
-  _Gemfile
-  _Gemfile.lock
   - "/_layouts"
   - "/_includes"
 url: http://www.uscore2.eu
