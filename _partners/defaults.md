@@ -1,3 +1,4 @@
+---
 layout: partners
 country: 
 website: 
@@ -13,4 +14,4 @@ map:
   longitude:
   address:
   zoom:
-
+---
