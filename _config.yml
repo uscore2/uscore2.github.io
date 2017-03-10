@@ -43,6 +43,7 @@ prose:
   media: media
   ignore:
     - 404.html
+    - contact-success.html
     - LICENSE
     - apple-touch-icon.png
     - favicon.png
@@ -55,6 +56,8 @@ prose:
     - Gemfile.lock
     - /_layouts
     - /_includes
+    - /_staff_members
+    - /blog
     - /css
     - /img
     - /js
