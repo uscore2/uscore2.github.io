@@ -44,6 +44,11 @@ prose:
   ignore:
     - 404.html
     - LICENSE
+    - apple-touch-icon.png
+    - favicon.png
+    - robots.txt
+    - siteicon.png
+    - touch-icon.png
     - feed.xml
     - _config.yml
     - Gemfile
