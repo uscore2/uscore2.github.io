@@ -65,6 +65,67 @@ prose:
     - /.sass-cache
     - /_site
     - CNAME
+  - partners:
+    - name: "partners"
+      field:
+        element: "hidden"
+        value: "partners"
+    - name: "country"
+      field:
+        element: "text"
+        lable: "Country"
+        alterable: "true"
+    - name: "website"
+      field:
+        element: "text"
+        lable: "Website"
+        alterable: "true"
+    - name: "size"
+      field:
+        element: "text"
+        lable: "Size"
+        alterable: "true"
+    - name: "population"
+      field:
+        element: "text"
+        lable: "Year"
+        alterable: "true"
+      field:
+        element: "text"
+        lable: "Total"
+        alterable: "true"
+    - name: "hazards"
+      field:
+        element: "textarea"
+        lable: "Hazards"
+        alterable: "true"
+    - name: "description"
+      field:
+        element: "textarea"
+        lable: "Description"
+        alterable: "true"
+    - name: "image"
+      field:
+        element: "textarea"
+        lable: "Image"
+        alterable: "true"
+    - name: "map"
+      field:
+        element: "text"
+        lable: "latitude"
+        alterable: "true"
+      field:
+        element: "text"
+        lable: "longitude"
+        alterable: "true"
+      field:
+        element: "text"
+        lable: "address"
+        alterable: "true"
+      field:
+        element: "text"
+        lable: "zoom"
+        alterable: "true"
 url: http://www.uscore2.eu
 baseurl: 
 google_analytics_key: "UA-92708806-1"
