@@ -65,7 +65,7 @@ prose:
     - /.sass-cache
     - /_site
     - CNAME
-  - partners:
+  _partners:
     - name: "partners"
       field:
         element: "hidden"
