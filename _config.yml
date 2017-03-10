@@ -41,7 +41,7 @@ defaults:
 prose:
   rooturl:
   media: media
-    _partners:
+  _partners:
     - name: "partners"
       field:
         element: "hidden"
