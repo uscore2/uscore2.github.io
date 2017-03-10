@@ -41,31 +41,7 @@ defaults:
 prose:
   rooturl:
   media: media
-  ignore:
-    - 404.html
-    - contact-success.html
-    - LICENSE
-    - apple-touch-icon.png
-    - favicon.png
-    - robots.txt
-    - siteicon.png
-    - touch-icon.png
-    - feed.xml
-    - _config.yml
-    - Gemfile
-    - Gemfile.lock
-    - /_layouts
-    - /_includes
-    - /_staff_members
-    - /blog
-    - /css
-    - /img
-    - /js
-    - /_sass
-    - /.sass-cache
-    - /_site
-    - CNAME
-  _partners:
+    _partners:
     - name: "partners"
       field:
         element: "hidden"
@@ -126,6 +102,30 @@ prose:
         element: "text"
         lable: "zoom"
         alterable: "true"
+  ignore:
+    - 404.html
+    - contact-success.html
+    - LICENSE
+    - apple-touch-icon.png
+    - favicon.png
+    - robots.txt
+    - siteicon.png
+    - touch-icon.png
+    - feed.xml
+    - _config.yml
+    - Gemfile
+    - Gemfile.lock
+    - /_layouts
+    - /_includes
+    - /_staff_members
+    - /blog
+    - /css
+    - /img
+    - /js
+    - /_sass
+    - /.sass-cache
+    - /_site
+    - CNAME
 url: http://www.uscore2.eu
 baseurl: 
 google_analytics_key: "UA-92708806-1"
