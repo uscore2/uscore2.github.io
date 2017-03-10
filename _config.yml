@@ -50,58 +50,55 @@ prose:
       field:
         element: "text"
         lable: "Country"
-        alterable: "true"
+        type: "text"
     - name: "website"
       field:
         element: "text"
         lable: "Website"
-        alterable: "true"
+        type: "text"
     - name: "size"
       field:
         element: "text"
         lable: "Size"
-        alterable: "true"
+        type: "text"
     - name: "population"
       field:
         element: "text"
         lable: "Year"
-        alterable: "true"
+        type: "text"
       field:
         element: "text"
         lable: "Total"
-        alterable: "true"
+        type: "text"
     - name: "hazards"
       field:
         element: "textarea"
         lable: "Hazards"
-        alterable: "true"
     - name: "description"
       field:
         element: "textarea"
         lable: "Description"
-        alterable: "true"
     - name: "image"
       field:
-        element: "textarea"
+        element: "text"
         lable: "Image"
-        alterable: "true"
+        type: "text"
     - name: "map"
       field:
         element: "text"
         lable: "latitude"
-        alterable: "true"
+        type: "text"
       field:
         element: "text"
         lable: "longitude"
-        alterable: "true"
+        type: "text"
       field:
-        element: "text"
+        element: "textarea"
         lable: "address"
-        alterable: "true"
       field:
         element: "text"
         lable: "zoom"
-        alterable: "true"
+        type: "text"
   ignore:
     - 404.html
     - contact-success.html
