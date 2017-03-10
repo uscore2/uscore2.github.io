@@ -42,10 +42,15 @@ prose:
   rooturl:
   media: media
   ignore:
-  - index.html
-  - _config.yml
-  - "/_layouts"
-  - "/_includes"
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
 url: http://www.uscore2.eu
 baseurl: 
 google_analytics_key: "UA-92708806-1"
