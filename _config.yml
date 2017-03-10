@@ -46,12 +46,16 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
+    - Gemfile
+    - Gemfile.lock
     - /_layouts
     - /_includes
     - /css
     - /img
     - /js
-    - /sass
+    - /_sass
+    - /.sass-cache
+    - /_site
     - CNAME
 url: http://www.uscore2.eu
 baseurl: 
