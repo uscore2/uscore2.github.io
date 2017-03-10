@@ -51,8 +51,8 @@ prose:
     - /css
     - /img
     - /js
-    -/sass
-    -CNAME
+    - /sass
+    - CNAME
 url: http://www.uscore2.eu
 baseurl: 
 google_analytics_key: "UA-92708806-1"
