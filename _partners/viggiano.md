@@ -1,18 +1,27 @@
 ---
+partners: partners
 title: Viggiano city – Italy
 layout: partners
-description: The Municipal Civil Protection Plan is in preparation. Localized structural
-  and non-structural interventions for Disaster Risk Reduction. Insights are provided
-  by the LGSAT.
-image: "/images/viggiano.png"
-quote: I wish to be fully engaged in developing environmental sustainability and territorial safety in the urban and land-use government actions. To this aim, our community will actively participate with the Province of Potenza in the action proposed for strengthening territorial resilience by adopting local policies and specific actions.
+description: >-
+  The Municipal Civil Protection Plan is in preparation. Localized structural
+  and non-structural interventions for Disaster Risk Reduction. Insights are
+  provided by the LGSAT.
+image: /images/viggiano.png
+quote: >-
+  I wish to be fully engaged in developing environmental sustainability and
+  territorial safety in the urban and land-use government actions. To this aim,
+  our community will actively participate with the Province of Potenza in the
+  action proposed for strengthening territorial resilience by adopting local
+  policies and specific actions.
 quote_author: Amedeo Cicala
 quote_author_title: Mayor
 map:
   latitude: 40.353866
   longitude: 15.8961315
-  address: " Viggiano – Italy"
+  address: ' Viggiano – Italy'
   zoom: 7
+published: true
+show_map_on_detail_page: true
 ---
 
 {% if page.quote %}
