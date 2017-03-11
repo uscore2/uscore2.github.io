@@ -3,10 +3,10 @@ prose:
   media: media
   metadata:
     _partners:
-      - name: "partners"
+      - name: "layout"
         field:
           element: "hidden"
-          value: "partners"
+          value: "partner_detail"
       - name: "title"
         field:
           element: "text"
