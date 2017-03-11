@@ -1,7 +1,6 @@
 ---
-partners: partners
 title: Viggiano city – Italy
-layout: partners
+layout: partner_detail
 description: >-
   The Municipal Civil Protection Plan is in preparation. Localized structural
   and non-structural interventions for Disaster Risk Reduction. Insights are
