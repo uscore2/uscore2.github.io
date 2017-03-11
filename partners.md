@@ -1,6 +1,6 @@
 ---
 title: Partners
-layout: partners
+layout: page
 description: Listing of U-Score2 partners
 ---
 <h2>Partner profiles</h2>
