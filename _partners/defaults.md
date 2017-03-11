@@ -1,19 +1,20 @@
 ---
 layout: partners
-country: 
-website: 
-size:
+country: null
+website: null
+size: null
 population:
-  - year:
-  - total:
-hazards:
-description:
-image:
+  - year: null
+  - total: null
+hazards: null
+description: null
+image: null
 map:
-  latitude:
-  longitude:
-  address:
-  zoom:
+  latitude: null
+  longitude: null
+  address: null
+  zoom: null
+published: false
 ---
 <div class="map" id="map"></div>
 
