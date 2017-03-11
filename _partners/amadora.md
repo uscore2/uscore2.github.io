@@ -1,18 +1,6 @@
 ---
 title: Amadora city - Portugal
 layout: partners
-country: Portugal
-website: www.facebook.com/amadora.resiliente
-size: 24 sq km
-population:
-- year: 2011
-- total: 175575
-hazards: Earthquake, Flood, Heat Wave, Land Slide, Technical Disaster
-description: The major disaster risks were flash floods (urban area),urban fires,
-  industrial fires, landslides, storms (fallen trees, damaged buildings infrastructure)
-  and road accidents. Amadora municipality has some vulnerability a highly urbanized
-  territory and population insufficiently aware and/or sensitized about the risks
-  and hazards.
 image: "/images/amandora.png"
 map:
   latitude: 38.7417991
