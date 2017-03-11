@@ -10,6 +10,7 @@ image: "/images/amandora.png"
 quote: The risks are a biophysical fragility of the territory. Their impact on the infrastructures and population involve a strong strategy. Preparedness, mitigation, prevention are the key of success. Our task is promote a campaign with maximum possible number of agents from the local,scientific and academic communities, demonstrating the relevance of risk reduction and of the amount of natural disasters that afflict the territory.
 quote_author: Carla Tavares
 quote_author_title: Mayor
+show_map_on_detail_page: yes
 map:
   latitude: 38.7417991
   longitude: -9.2224606
