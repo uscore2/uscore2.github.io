@@ -17,6 +17,9 @@ map:
   address: " Amadora, Portugal"
   zoom: 10
 ---
+{% if page.show_map_on_detail_page == 'true' %}
+	{% include map_div.html%}
+{% endif %}
 
 {% if page.quote %}
 <section class="testimonial">
