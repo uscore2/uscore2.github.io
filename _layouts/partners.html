@@ -1,17 +1,17 @@
 ---
 layout: page
-show_map_on_list_page: no
-show_map_on_detail_page: yes
+show_map_on_list_page: false
+show_map_on_detail_page: true
 ---
 
 <div class="blog-post text-container">
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 	<div class="post-content">
-		{% if page.show_map_on_list_page == 'yes' %}
+		{% if page.show_map_on_list_page == 'true' %}
 		{% include map_div.html%}
 		{% endif %}
-		{% if page.show_map_on_detail_page == 'yes' %}
+		{% if page.show_map_on_detail_page == 'true' %}
 		{% include map_div.html%}
 		{% endif %}
 
