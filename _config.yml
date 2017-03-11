@@ -57,7 +57,7 @@ prose:
         element: "text"
         label: "Website"
         type: "text"
-        - name: "size"
+    - name: "size"
       field:
         element: "text"
         label: "Size"
