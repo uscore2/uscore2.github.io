@@ -7,6 +7,9 @@ description: The major disaster risks were flash floods (urban area),urban fires
   territory and population insufficiently aware and/or sensitized about the risks
   and hazards.
 image: "/images/amandora.png"
+quote: The risks are a biophysical fragility of the territory. Their impact on the infrastructures and population involve a strong strategy. Preparedness, mitigation, prevention are the key of success. Our task is promote a campaign with maximum possible number of agents from the local,scientific and academic communities, demonstrating the relevance of risk reduction and of the amount of natural disasters that afflict the territory.
+quote_author: Carla Tavares
+quote_author_title: Mayor
 map:
   latitude: 38.7417991
   longitude: -9.2224606
@@ -16,17 +19,19 @@ map:
 
 <div class="map" id="map"></div>
 
+{% if page.quote %}
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
 				<blockquote>
-					<p class="editable">The risks are a biophysical fragility of the territory. Their impact on the infrastructures and population involve a strong strategy. Preparedness, mitigation, prevention are the key of success. Our task is promote a campaign with maximum possible number of agents from the local,scientific and academic communities, demonstrating the relevance of risk reduction and of the amount of natural disasters that afflict the territory.</p>
-					<p class="profile_author">Carla Tavares</p>
-					<p>Mayor</p>
+					<p class="editable">{{ page.quote }}</p>
+					<p class="profile_author">{{ page.quote_author }}</p>
+					<p>{{ page.quote_author_title }}</p>
 				</blockquote>
 			</div>
 		</div>
 	</section>
+{% endif %}
 
 ## HAZARD AND VULNERABILITY PROFILE 
 
