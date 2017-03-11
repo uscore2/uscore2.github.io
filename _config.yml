@@ -47,6 +47,60 @@ prose:
       field:
         element: "hidden"
         value: "partners"
+        - name: "country"
+    - name: "country"
+      field:
+        element: "text"
+        lable: "Country"
+        type: "text"
+    - name: "website"
+      field:
+        element: "text"
+        lable: "Website"
+        type: "text"
+    - name: "size"
+      field:
+        element: "text"
+        lable: "Size"
+        type: "text"
+    - name: "population"
+      field:
+        element: "text"
+        lable: "Year"
+        type: "text"
+      field:
+        element: "text"
+        lable: "Total"
+        type: "text"
+    - name: "hazards"
+      field:
+        element: "textarea"
+        lable: "Hazards"
+    - name: "description"
+      field:
+        element: "textarea"
+        lable: "Description"
+    - name: "image"
+      field:
+        element: "text"
+        lable: "Image"
+        type: "text"
+    - name: "map"
+      field:
+        element: "text"
+        lable: "latitude"
+        type: "text"
+      field:
+        element: "text"
+        lable: "longitude"
+        type: "text"
+      field:
+        element: "textarea"
+        lable: "address"
+      field:
+        element: "text"
+        lable: "zoom"
+        type: "text"
   ignore:
     - 404.html
     - contact-success.html
