@@ -36,32 +36,3 @@ Greater Manchester lies in the north west of England and is one of the largest m
 
 ## DISASTER AND RISK REDUCTION ACTIVITIES 
 The UK has a robust disaster risk reduction framework underpinned by legislation. Across Greater Manchester the 10 local authorities work in partnership with public sector, private sector, academic and voluntary organisations to research the impacts of major risks, to develop collaborative responses to potential hazards and to strengthen the resilience of the city region. The self-assessment contains details of many of the disaster risk reduction programmes in place across Greater Manchester.
-
-<script type="text/javascript">
-	window.mapData = {{ page.map | jsonify }};
-
-	function initMap() {
-		var myOptions = {
-			scrollwheel: false,
-			draggable: false,
-			panControl: false,
-			disableDefaultUI: true,
-			zoom: window.mapData.zoom,
-			maxZoom: window.mapData.zoom,
-			minZoom: window.mapData.zoom,
-			center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-		};
-		map = new google.maps.Map(document.getElementById("map"), myOptions);
-		marker = new google.maps.Marker({
-			map: map,
-			position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
-		});
-
-		google.maps.event.addDomListener(window, "resize", function () {
-			map.setCenter(myOptions.center);
-		});
-	}
-</script>
-
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>
