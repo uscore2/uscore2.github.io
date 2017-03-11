@@ -19,6 +19,22 @@ prose:
         field:
           element: "text"
           label: "Image"
+      - name: "quote"
+        field:
+          element: "text"
+          label: "Quote"
+      - name: "quote_author"
+        field:
+          element: "text"
+          label: "Quote Author"
+      - name: "quote_author_title"
+        field:
+          element: "text"
+          label: "Quote Author Title"
+      - name: "show_map_on_detail_page"
+        field:
+          element: "checkbox"
+          label: "Show Map"
   ignore:
     - 404.html
     - contact-success.html
