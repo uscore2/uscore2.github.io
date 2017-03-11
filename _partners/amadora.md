@@ -1,24 +1,31 @@
 ---
+partners: partners
 title: Amadora city - Portugal
 layout: partners
-description: The major disaster risks were flash floods (urban area),urban fires,
-  industrial fires, landslides, storms (fallen trees, damaged buildings infrastructure)
-  and road accidents. Amadora municipality has some vulnerability a highly urbanized
-  territory and population insufficiently aware and/or sensitized about the risks
-  and hazards.
-image: "/images/amandora.png"
-quote: The risks are a biophysical fragility of the territory. Their impact on the infrastructures and population involve a strong strategy. Preparedness, mitigation, prevention are the key of success. Our task is promote a campaign with maximum possible number of agents from the local,scientific and academic communities, demonstrating the relevance of risk reduction and of the amount of natural disasters that afflict the territory.
+description: >-
+  The major disaster risks were flash floods (urban area),urban fires,
+  industrial fires, landslides, storms (fallen trees, damaged buildings
+  infrastructure) and road accidents. Amadora municipality has some
+  vulnerability a highly urbanized territory and population insufficiently aware
+  and/or sensitized about the risks and hazards.
+image: /images/amandora.png
+quote: >-
+  The risks are a biophysical fragility of the territory. Their impact on the
+  infrastructures and population involve a strong strategy. Preparedness,
+  mitigation, prevention are the key of success. Our task is promote a campaign
+  with maximum possible number of agents from the local,scientific and academic
+  communities, demonstrating the relevance of risk reduction and of the amount
+  of natural disasters that afflict the territory.
 quote_author: Carla Tavares
 quote_author_title: Mayor
 map:
   latitude: 38.7417991
   longitude: -9.2224606
-  address: " Amadora, Portugal"
+  address: ' Amadora, Portugal'
   zoom: 10
+published: true
+show_map_on_detail_page: true
 ---
-
-{% include map_div.html%}
-
 
 {% if page.quote %}
 <section class="testimonial">
