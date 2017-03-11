@@ -10,6 +10,9 @@ show_map_on_list_page: false
 		{% if page.show_map_on_list_page == 'false' %}
 			{% include map_div.html %}
 		{% endif %}
+		{% if page.show_map_on_detail_page == 'true' %}
+			{% include map_div.html %}
+		{% endif %}
 
 		{{ content }}
 
