@@ -12,17 +12,19 @@ published: false
 ---
 <div class="map" id="map"></div>
 
+{% if partners.quote %}
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
 				<blockquote>
-					<p class="editable">Quote text to go here.</p>
-					<p class="profile_author">Name of the person quoted</p>
-					<p>Mayor</p>
+					<p class="editable">{{ partners.quote }}</p>
+					<p class="profile_author">{{ partners.quote_author }}</p>
+					<p>{{ partners.quote_author_title }}</p>
 				</blockquote>
 			</div>
 		</div>
 	</section>
+{% endif %}
 
 ## First heading
 
