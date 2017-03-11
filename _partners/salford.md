@@ -1,14 +1,6 @@
 ---
 title: Salford city – United Kingdom
 layout: partners
-country: United Kingdom
-website: www.gmemergencyplanning.org.uk
-Size: 97.19 km2
-Population:
-- year: 2011
-- total: 233933
-Part Of: Greater Manchester
-Hazards: Epidemic & Pandemic, Flood, Heat Wave, Technical Disaster
 description: Greater Manchester lies in the north west of England and is one of the
   largest metropolitan areas in the UK. Designated a city region in 2011 it comprises
   the cities of Manchester and Salford, together with the metropolitan boroughs of
