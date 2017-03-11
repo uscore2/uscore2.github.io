@@ -7,26 +7,28 @@ description: The Alliance Manchester Business School (AMBS) was established in 1
   'Original Thinking Applied' is at the heart of AMBS and underpins our ethos of conducting
   practically-relevant, theoretically-rigorous scholarly activity.
 image: "/images/UoM.jpg"
+quote: Uscore2 offers a unique and exciting opportunity to work with leading cities in civil protection to create a useable tool that will enhance the peer review process for disaster risk reduction. Manchester University is supporting the design and evaluation of this tool to ensure widespread impact through even stronger city learning and adoption of resilience practices.
+quote_author: Professor Duncan Shaw
+quote_author_title: Alliance Manchester Business School and the Humanitarian & Conflict Research Institute (HCRI)
 map:
   latitude: 53.4686488
   longitude: -2.2353484
   address: " Alliance Manchester Business School"
   zoom: 10
 ---
-
-<div class="map" id="map"></div>
-
+{% if page.quote %}
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
 				<blockquote>
-					<p class="editable">Uscore2 offers a unique and exciting opportunity to work with leading cities in civil protection to create a useable tool that will enhance the peer review process for disaster risk reduction. Manchester University is supporting the design and evaluation of this tool to ensure widespread impact through even stronger city learning and adoption of resilience practices.</p>
-					<p class="profile_author">Professor Duncan Shaw</p> 
-					<p>Alliance Manchester Business School and the Humanitarian & Conflict Research Institute (HCRI)</p>
+					<p class="editable">{{ page.quote }}</p>
+					<p class="profile_author">{{ page.quote_author }}</p>
+					<p>{{ page.quote_author_title }}</p>
 				</blockquote>
 			</div>
 		</div>
 	</section>
+{% endif %}
 
 ## PROFILE 
 
