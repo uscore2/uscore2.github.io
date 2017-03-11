@@ -1,11 +1,15 @@
+{% for partners in site.partners %}
+{% if partners.quote %}
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
 				<blockquote>
-					<p class="editable">{{ page.quote }}</p>
-					<p class="profile_author">{{ page.quote_author }}</p>
-					<p>{{ page.quote_author_title }}</p>
+					<p class="editable">{{ partners.quote }}</p>
+					<p class="profile_author">{{ partners.quote_author }}</p>
+					<p>{{ partners.quote_author_title }}</p>
 				</blockquote>
 			</div>
 		</div>
 	</section>
+{% endif %}
+{% endfor %} 
