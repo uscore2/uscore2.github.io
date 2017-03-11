@@ -1,14 +1,6 @@
 ---
 title: Viggiano city – Italy
 layout: partners
-country: Italy
-website: www.comuneviggiano.it/
-Size: 89.70 sq km
-Population:
-- year: 2011
-- total: 3122
-Hazards: Cold Wave, Drought, Earthquake, Heat Wave, Land Slide, NBC - Nuclear, Biological,
-  Chemical, Technical Disaster
 description: The Municipal Civil Protection Plan is in preparation. Localized structural
   and non-structural interventions for Disaster Risk Reduction. Insights are provided
   by the LGSAT.
