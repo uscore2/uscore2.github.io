@@ -37,32 +37,3 @@ The major disaster risks were flash floods (urban area), urban fires, industrial
 ## DISASTER AND RISK REDUCTION ACTIVITIES 
 
 In the context of the preparation, it is worth mentioning the training and awareness creation project for the school community, entitled "Civil Protection Club", which addresses the issues of risks that exist in Amadora (e.g., seismic risk, flood areas, etc.) and identifies the self-protection measures. It is worth noting that there has been a continued effort towards a culture of safety and prevention creating in Amadora. The local institutions have made remarkable efforts to reduce the vulnerability of the population by issuing warnings not to occupy areas of risk. The planning for the seismic risk and the mapping of the flood areas, are also good examples of such efforts, including the risk analyses (zoning of critical areas) and planning for emergency situations. The whole structure of civil protection has made remarkable efforts to involve a great number of institutional partners from both civic and scientific academic spheres of life.
-
-<script type="text/javascript">
-	window.mapData = {{ page.map | jsonify }};
-
-	function initMap() {
-		var myOptions = {
-			scrollwheel: false,
-			draggable: false,
-			panControl: false,
-			disableDefaultUI: true,
-			zoom: window.mapData.zoom,
-			maxZoom: window.mapData.zoom,
-			minZoom: window.mapData.zoom,
-			center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-		};
-		map = new google.maps.Map(document.getElementById("map"), myOptions);
-		marker = new google.maps.Marker({
-			map: map,
-			position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
-		});
-
-		google.maps.event.addDomListener(window, "resize", function () {
-			map.setCenter(myOptions.center);
-		});
-	}
-</script>
-
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>
