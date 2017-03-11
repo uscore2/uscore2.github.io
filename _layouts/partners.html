@@ -8,7 +8,7 @@ show_map_on_detail_page: true
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 	<div class="post-content">
-		{% if page.show_map_on_detail_page == 'true' %}
+		{% if page.show_map_on_list_page !== 'true' %}
 			{% include map_div.html%}
 		{% endif %}
 
