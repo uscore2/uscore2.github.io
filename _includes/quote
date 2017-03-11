@@ -1,0 +1,11 @@
+<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<blockquote>
+					<p class="editable">{page.quote}</p>
+					<p class="profile_author">[page.quote_author}</p>
+					<p>{page.quote_author_title}</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
