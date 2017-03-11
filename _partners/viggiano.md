@@ -15,14 +15,14 @@ map:
   zoom: 7
 ---
 
-{% if partners.quote %}
+{% if page.quote %}
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
 				<blockquote>
-					<p class="editable">{{ partners.quote }}</p>
-					<p class="profile_author">{{ partners.quote_author }}</p>
-					<p>{{ partners.quote_author_title }}</p>
+					<p class="editable">{{ page.quote }}</p>
+					<p class="profile_author">{{ page.quote_author }}</p>
+					<p>{{ page.quote_author_title }}</p>
 				</blockquote>
 			</div>
 		</div>
