@@ -1,13 +1,15 @@
 ---
 layout: page
+show_map: no
 ---
 
 <div class="blog-post text-container">
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 	<div class="post-content">
-		
+		{% if page.show_map === yes %}
 		{% include map_div.html%}
+		{% endif %}
 
 		{{ content }}
 
