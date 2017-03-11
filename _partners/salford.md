@@ -1,20 +1,27 @@
 ---
+partners: partners
 title: Salford city – United Kingdom
 layout: partners
-description: Greater Manchester lies in the north west of England and is one of the
-  largest metropolitan areas in the UK. Designated a city region in 2011 it comprises
-  the cities of Manchester and Salford, together with the metropolitan boroughs of
-  Bolton, Bury, Oldham, Rochdale, Stockport, Tameside, Trafford and Wigan. There is
-  a mix of high density urban areas, suburbs and semi-rural locations.
-image: "/images/salford.png"
-quote: Working in partnership helps residents and businesses to recognise opportunities to realise our ambitions whilst meeting the challenges of a changing risk landscape. Greater Manchester is stronger together.
+description: >-
+  Greater Manchester lies in the north west of England and is one of the largest
+  metropolitan areas in the UK. Designated a city region in 2011 it comprises
+  the cities of Manchester and Salford, together with the metropolitan boroughs
+  of Bolton, Bury, Oldham, Rochdale, Stockport, Tameside, Trafford and Wigan.
+  There is a mix of high density urban areas, suburbs and semi-rural locations.
+image: /images/salford.png
+quote: >-
+  Working in partnership helps residents and businesses to recognise
+  opportunities to realise our ambitions whilst meeting the challenges of a
+  changing risk landscape. Greater Manchester is stronger together.
 quote_author: Mr. Tony Lloyd
 quote_author_title: Mayor
 map:
   latitude: 53.4845812
   longitude: -2.2841627
-  address: " Amadora, Portugal"
+  address: ' Amadora, Portugal'
   zoom: 7
+published: true
+show_map_on_detail_page: true
 ---
 {% if page.quote %}
 <section class="testimonial">
