@@ -15,8 +15,6 @@ map:
   zoom: 7
 ---
 
-<div class="map" id="map"></div>
-
 {% if partners.quote %}
 <section class="testimonial">
 		<div class="container flex">
