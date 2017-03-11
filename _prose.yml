@@ -11,29 +11,6 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "country"
-        field:
-          element: "text"
-          label: "Country"
-      - name: "website"
-        field:
-          element: "text"
-          label: "Website"
-      - name: "size"
-        field:
-          element: "text"
-          label: "Size"
-      - name: "population"
-        field:
-          element: "text"
-          label: "Year"
-        field:
-          element: "text"
-          label: "Total"
-      - name: "hazards"
-        field:
-          element: "textarea"
-          label: "Hazards"
       - name: "description"
         field:
           element: "textarea"
