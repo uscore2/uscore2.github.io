@@ -1,8 +1,6 @@
 ---
 title: University of Manchester - UK
 layout: partners
-country: United Kingdom
-website: http://www.mbs.ac.uk
 description: The Alliance Manchester Business School (AMBS) was established in 1965
   as one of the UK's first two business schools. Now, AMBS is the UK's largest campus-based
   business and management school and rated second in the REF 2014 for research power.
