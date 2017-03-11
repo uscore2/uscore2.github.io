@@ -1,13 +1,17 @@
 ---
 layout: page
-show_map: no
+show_map_on_list_page: no
+show_map_on_detail_page: yes
 ---
 
 <div class="blog-post text-container">
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 	<div class="post-content">
-		{% if page.show_map == 'yes' %}
+		{% if page.show_map_on_list_page == 'yes' %}
+		{% include map_div.html%}
+		{% endif %}
+		{% if page.show_map_on_detail_page == 'yes' %}
 		{% include map_div.html%}
 		{% endif %}
 
