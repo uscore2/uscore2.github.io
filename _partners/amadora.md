@@ -1,7 +1,6 @@
 ---
-partners: partners
 title: Amadora city - Portugal
-layout: partners
+layout: partner_detail
 description: >-
   The major disaster risks were flash floods (urban area),urban fires,
   industrial fires, landslides, storms (fallen trees, damaged buildings
@@ -24,7 +23,6 @@ map:
   address: ' Amadora, Portugal'
   zoom: 10
 published: true
-show_map_on_detail_page: true
 ---
 
 {% if page.quote %}
