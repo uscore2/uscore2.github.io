@@ -6,6 +6,9 @@ layout: page
 
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 	<div class="post-content">
+		
+		{% include map_div.html%}
+		{% include quote.html%}
 
 		{{ content }}
 
@@ -40,5 +43,5 @@ layout: page
 		{% endif %}
 	</div>
 </div>
-{% include map.html%}
+{% include map_js.html%}
 
