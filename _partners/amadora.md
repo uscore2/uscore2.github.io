@@ -17,8 +17,6 @@ map:
   zoom: 10
 ---
 
-<div class="map" id="map"></div>
-
 {% if page.quote %}
 <section class="testimonial">
 		<div class="container flex">
