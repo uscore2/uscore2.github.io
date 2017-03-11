@@ -5,6 +5,9 @@ description: The Municipal Civil Protection Plan is in preparation. Localized st
   and non-structural interventions for Disaster Risk Reduction. Insights are provided
   by the LGSAT.
 image: "/images/viggiano.png"
+quote: I wish to be fully engaged in developing environmental sustainability and territorial safety in the urban and land-use government actions. To this aim, our community will actively participate with the Province of Potenza in the action proposed for strengthening territorial resilience by adopting local policies and specific actions.
+quote_author: Amedeo Cicala
+quote_author_title: Mayor
 map:
   latitude: 40.353866
   longitude: 15.8961315
@@ -13,18 +16,6 @@ map:
 ---
 
 <div class="map" id="map"></div>
-
-<section class="testimonial">
-		<div class="container flex">
-			<div class="testimonial-block">
-				<blockquote>
-					<p class="editable">I wish to be fully engaged in developing environmental sustainability and territorial safety in the urban and land-use government actions. To this aim, our community will actively participate with the Province of Potenza in the action proposed for strengthening territorial resilience by adopting local policies and specific actions.</p>
-					<p class="profile_author">Amedeo Cicala</p>
-					<p>Mayor</p>
-				</blockquote>
-			</div>
-		</div>
-</section>
 
 ## HAZARD AND VULNERABILITY PROFILE 
 Prevailing hazards and vulnerable conditions of the provincial territory: Several areas prone to hydrogeological hazards; Presence of some industrial activities prone to “major accident” hazard; Presence of plants and industrial activities with particular territorial impact; Municipality classified in seismic zone 1 in relation to the 2012 Italian seismic classification for Municipalities; Seismic Vulnerability of the buildings, especially in the historical centres of the municipalities; Widespread presence of soil-sailing phenomena; Phenomena of abandonment of land resulting in settlements very exposed to seismic and hydrogeological risks.
