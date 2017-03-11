@@ -17,6 +17,20 @@ map:
 
 <div class="map" id="map"></div>
 
+{% if partners.quote %}
+<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<blockquote>
+					<p class="editable">{{ partners.quote }}</p>
+					<p class="profile_author">{{ partners.quote_author }}</p>
+					<p>{{ partners.quote_author_title }}</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+{% endif %}
+
 ## HAZARD AND VULNERABILITY PROFILE 
 Prevailing hazards and vulnerable conditions of the provincial territory: Several areas prone to hydrogeological hazards; Presence of some industrial activities prone to “major accident” hazard; Presence of plants and industrial activities with particular territorial impact; Municipality classified in seismic zone 1 in relation to the 2012 Italian seismic classification for Municipalities; Seismic Vulnerability of the buildings, especially in the historical centres of the municipalities; Widespread presence of soil-sailing phenomena; Phenomena of abandonment of land resulting in settlements very exposed to seismic and hydrogeological risks.
 
