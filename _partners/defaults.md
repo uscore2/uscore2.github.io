@@ -1,12 +1,5 @@
 ---
 layout: partners
-country: null
-website: null
-size: null
-population:
-  - year: null
-  - total: null
-hazards: null
 description: null
 image: null
 map:
