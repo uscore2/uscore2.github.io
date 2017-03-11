@@ -31,10 +31,6 @@ prose:
         field:
           element: "text"
           label: "Quote Author Title"
-      - name: "show_map_on_detail_page"
-        field:
-          element: "checkbox"
-          label: "Show Map"
   ignore:
     - 404.html
     - contact-success.html
