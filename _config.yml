@@ -46,31 +46,30 @@ prose:
       - name: "partners"
         field:
           element: "hidden"
-          value: "partners" 
+          value: "partners"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "country"
         field:
           element: "text"
           label: "Country"
-          type: "text"
       - name: "website"
         field:
           element: "text"
           label: "Website"
-          type: "text"
       - name: "size"
         field:
           element: "text"
           label: "Size"
-          type: "text"
       - name: "population"
         field:
           element: "text"
           label: "Year"
-          type: "text"
         field:
           element: "text"
           label: "Total"
-          type: "text"
       - name: "hazards"
         field:
           element: "textarea"
@@ -83,7 +82,6 @@ prose:
         field:
           element: "text"
           label: "Image"
-          type: "text"
   ignore:
     - 404.html
     - contact-success.html
