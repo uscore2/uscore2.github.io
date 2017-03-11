@@ -1,12 +1,13 @@
 ---
-layout: partners
-description: null
-image: null
+title: 
+layout: 
+description: 
+image: " "
 map:
-  latitude: null
-  longitude: null
-  address: null
-  zoom: null
+  latitude: 
+  longitude: 
+  address: " "
+  zoom: 
 published: false
 ---
 <div class="map" id="map"></div>
