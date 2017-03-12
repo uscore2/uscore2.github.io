@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Cabinet Office EU Civil Protection Funding Information Day 2017
 category: Funding
 description: >-
@@ -26,4 +26,3 @@ Dr Kathy Oldham talked of her experience of successful EU funding bids though bo
 The tool was designed to help cities to create action plans and strategies for strengthening resilience and through the project 5 cities piloted the scorecard, recommending improvements, becoming expert users and advise other cities on using the tool. Building on the learning of the original UScore project is UScore2 which aims to design a practical city-to-city peer review tool for measuring city resilience and resilience action planning as well as establish a peer review methodology for its application. Involving partners from across the EU the project is currently underway and is scheduled for completion in late 2018.
 
 Delegates also heard from the Department of Communities and Local Government who highlighted the role of central government liaison in European funded projects as well as exploring the benefits of central government participation. As the session reached its close it was clear to see the many benefits on offer through applying for EU civil protection funding and the support that was available across the emergency planning network for potential bids.
-
