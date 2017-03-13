@@ -22,7 +22,7 @@ map:
   longitude: -9.2224606
   address: ' Amadora, Portugal'
   zoom: 10
-published: false
+published: true
 ---
 
 {% if page.quote %}
