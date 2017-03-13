@@ -44,7 +44,7 @@ social:
   name: 
   links: 
 paginate: 10
-paginate_path: "/news/:num/"
+paginate_path: "/blog/:num/"
 permalink: pretty
 jekyll-archives:
   enabled:
