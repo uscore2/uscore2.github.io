@@ -22,4 +22,4 @@ Uscore2 follows on from the DG ECHO-funded ‘Urban Scorecard’ (UScore) projec
 
 
 The peer review tool developed through Uscore2 will be piloted in Viggiano, Salford and Amadora. These three cities have different disaster risk profiles; geographical and demographic characteristics; and statutory and regulatory frameworks. All are role models within the Making Cities Resilient Campaign. The effectiveness of the peer review tool will be evaluated using a methodology developed by the University of Manchester. The tool will be aligned to the indicators for the Sendai Framework and UNISDR MCR enabling on-going assessment of its applicability in reporting local progress against the Sendai Framework.
-![test]({{site.baseurl}}/images /Test Image.PNG)
+![test]({{site.baseurl}}/images/Test Image.PNG)
