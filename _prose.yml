@@ -64,7 +64,6 @@ prose:
     - Gemfile.lock
     - /_layouts
     - /_includes
-    - /_staff_members
     - /blog
     - /css
     - /img
