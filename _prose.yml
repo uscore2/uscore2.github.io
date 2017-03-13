@@ -59,6 +59,7 @@ prose:
     - touch-icon.png
     - feed.xml
     - _config.yml
+    - _prose.yml
     - Gemfile
     - Gemfile.lock
     - /_layouts
