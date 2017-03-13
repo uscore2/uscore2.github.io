@@ -12,7 +12,7 @@
   new_window: false
   highlight: false 
 - name: News
-  link: /blog/
+  link: /news/
   new_window: false
   highlight: false
 - name: Contact
