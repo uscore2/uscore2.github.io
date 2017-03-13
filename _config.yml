@@ -9,10 +9,6 @@ collections:
     title: Posts
     output: true
     permalink: "/news/:path/"
-  staff_members:
-    title: Staff Members
-    output: false
-    _hide_content: true
   uploads:
     title: Uploads
     output: true
@@ -27,7 +23,7 @@ defaults:
   values:
     layout: page
 - scope:
-    path: city_partners
+    path: partners
   values:
     layout: partners
 - scope:
@@ -48,7 +44,7 @@ social:
   name: 
   links: 
 paginate: 10
-paginate_path: "/blog/:num/"
+paginate_path: "/news/:num/"
 permalink: pretty
 jekyll-archives:
   enabled:
