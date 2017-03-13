@@ -1,6 +1,6 @@
 ---
-title: Amadora city - Portugal
 layout: partner_detail
+title: Amadora city - Portugal
 description: >-
   The major disaster risks were flash floods (urban area),urban fires,
   industrial fires, landslides, storms (fallen trees, damaged buildings
@@ -22,7 +22,7 @@ map:
   longitude: -9.2224606
   address: ' Amadora, Portugal'
   zoom: 10
-published: true
+published: false
 ---
 
 {% if page.quote %}
