@@ -8,4 +8,4 @@ The project will involve collaborative work between the municipalities of Salfor
 
 ### Updating content
 
-Review the site [wiki](https://github.com/uscore2/uscore2.github.io/wiki/Editing-content-(Syntax)
+Review the site [wiki](https://github.com/uscore2/uscore2.github.io/wiki/Editing-content)
