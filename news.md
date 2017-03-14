@@ -1,4 +1,4 @@
-##News
 
 
-Coming soon.
+
+News items coming soon.
