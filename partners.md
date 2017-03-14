@@ -11,8 +11,11 @@ description: Listing of U-Score2 partners
 <div class="text-container flex">
 <p class="post-excerpt profile-thumb-image">
 	{% if partners.image %}<img src="{{ partners.image}}"/>{% endif %}
-{{ partners.description}}<a href="{{ partners.url | prepend: site.baseurl }}">  Read More</a></p>
+</p>
+<p class=".text-container">{{ partners.description}}<a href="{{ partners.url | prepend: site.baseurl }}">  Read More</a></p>
+
 </div>
+
 {% endfor %} 
 
 ![Uscore2 project partners](/images/uscore2_partners.jpg "Uscore2 Partners")
