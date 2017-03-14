@@ -11,7 +11,7 @@
   link: /partners/
   new_window: false
   highlight: false
-  - name: News
+- name: News
   link: /news/
   new_window: false
   highlight: false
