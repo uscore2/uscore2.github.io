@@ -10,7 +10,7 @@
 - name: Partners
   link: /partners/
   new_window: false
-  highlight: false 
+  highlight: false
 - name: News
   link: /news/
   new_window: false

@@ -1,6 +1,6 @@
 ---
-title: Salford city – United Kingdom
 layout: partner_detail
+title: Salford city – United Kingdom
 description: >-
   Greater Manchester lies in the north west of England and is one of the largest
   metropolitan areas in the UK. Designated a city region in 2011 it comprises
