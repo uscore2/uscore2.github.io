@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Cabinet Office EU Civil Protection Funding Information Day 2017
 category: null
 description: >-
