@@ -15,10 +15,6 @@ prose:
         field:
           element: "textarea"
           label: "Description"
-      - name: "category"
-        field:
-          element: "text"
-          label: "category"
     _partners:
       - name: "layout"
         field:
