@@ -45,4 +45,6 @@ Prevailing hazards and vulnerable conditions of the provincial territory: Severa
 ## DISASTER AND RISK REDUCTION ACTIVITIES 
 The Municipal Civil Protection Plan is in preparation. Localized structural and non-structural interventions for Disaster Risk Reduction. Insights are provided by the LGSAT.
 
-http://www.comuneviggiano.it/
+## Visit the city's website:
+  [Câmara Municipal da Amadora](http://www.comuneviggiano.it/)
+  
