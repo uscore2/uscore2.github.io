@@ -1,6 +1,6 @@
 ---
-title: Viggiano city – Italy
 layout: partner_detail
+title: Viggiano city – Italy
 description: >-
   The Municipal Civil Protection Plan is in preparation. Localized structural
   and non-structural interventions for Disaster Risk Reduction. Insights are
@@ -44,3 +44,5 @@ Prevailing hazards and vulnerable conditions of the provincial territory: Severa
 
 ## DISASTER AND RISK REDUCTION ACTIVITIES 
 The Municipal Civil Protection Plan is in preparation. Localized structural and non-structural interventions for Disaster Risk Reduction. Insights are provided by the LGSAT.
+
+http://www.comuneviggiano.it/
