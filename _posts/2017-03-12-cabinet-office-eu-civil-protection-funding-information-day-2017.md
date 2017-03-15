@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 title: Cabinet Office EU Civil Protection Funding Information Day 2017
-category:
+category: null
 description: >-
   On Thursday 2nd February 2017 the Cabinet Office presented the EU Civil
   Protection Funding Information Day in Manchester which was hosted by Greater
