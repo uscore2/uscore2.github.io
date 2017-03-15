@@ -4,7 +4,9 @@ layout: partners
 description: Listing of U-Score2 partners
 ---
 <h2>Partner profiles</h2>
-{% for partners in site.partners %}
+
+{% assign sorted = (site.partners | sort: 'title') %}
+{% for partners in sorted %}
 
 <h3><a href="{{ partners.url | prepend: site.baseurl }}">{{ partners.title }}
 </a></h3>
@@ -12,7 +14,7 @@ description: Listing of U-Score2 partners
 <p class="post-excerpt profile-thumb-image">
 	{% if partners.image %}<img src="{{ partners.image}}"/>{% endif %}
 </p>
-<p class=".text-container">{{ partners.description}}<a href="{{ partners.url | prepend: site.baseurl }}">  Read More</a></p>
+<p class="text-container">{{ partners.description}}<a href="{{ partners.url | prepend: site.baseurl }}">  Read More</a></p>
 
 </div>
 
