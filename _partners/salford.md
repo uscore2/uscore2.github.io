@@ -45,4 +45,4 @@ Greater Manchester lies in the north west of England and is one of the largest m
 The UK has a robust disaster risk reduction framework underpinned by legislation. Across Greater Manchester the 10 local authorities work in partnership with public sector, private sector, academic and voluntary organisations to research the impacts of major risks, to develop collaborative responses to potential hazards and to strengthen the resilience of the city region. The self-assessment contains details of many of the disaster risk reduction programmes in place across Greater Manchester.
 
 ## Visit the city's website:
-  [Salford City Council](http://www.salford.gov.uk/)
+[Salford City Council](http://www.salford.gov.uk/)
