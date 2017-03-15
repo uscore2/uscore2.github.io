@@ -46,3 +46,4 @@ The UK has a robust disaster risk reduction framework underpinned by legislation
 
 ## Visit the city's website:
    [Salford City Council](http://www.salford.gov.uk/)
+
