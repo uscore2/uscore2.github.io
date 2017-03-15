@@ -1,6 +1,6 @@
 ---
-title: University of Manchester - UK
 layout: partner_detail
+title: University of Manchester - UK
 description: >-
   The Alliance Manchester Business School (AMBS) was established in 1965 as one
   of the UK's first two business schools. Now, AMBS is the UK's largest
@@ -48,6 +48,9 @@ The Alliance Manchester Business School (AMBS) was established in 1965 as one of
 Also involved from the University of Manchester is the Humanitarian and Conflict Research Institute (HCRI). HCRI is a leading centre for the study of humanitarianism and conflict response, and international disaster management. HCRI is driven by a desire to inform and support policy and decision makers, to optimise collaborations between partner organisations, and to foster increased understanding and debate within the field. HCRI aims to facilitate improvements in crisis response on a global scale, while providing a centre of excellence for practitioners in emergencies and conflicts. [HCRI](www.hcri.ac.uk)
 
 ![University of Manchester - UK](/images/UoM.jpg "University of Manchester - UK")
+
+## Visit the university's website:
+   [University of Manchester](http://www.manchester.ac.uk/)
 
 ## The staff involved include:
   [Professor Duncan Shaw](https://www.research.manchester.ac.uk/portal/duncan.shaw-2.html)  
