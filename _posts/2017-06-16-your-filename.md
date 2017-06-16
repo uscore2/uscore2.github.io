@@ -1,8 +1,10 @@
 ---
 layout: post
-published: false
-title: Amadora Workshop
+published: true
+title: Untitled
 ---
+## A New Post
+
 Amadora Workshop 8th-9th June 2017
 
 On Thursday the 8th and Friday the 9th of June 2017 UScore2 Project partners met together for the first time at the Kick Off Workshop in Amadora, Portugal.
