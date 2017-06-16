@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Amadora Workshop, Portugal 2017'
+title: 'UScore2 Amadora Workshop, Portugal June 2017'
 ---
 On Thursday the 8th and Friday the 9th of June 2017 UScore2 Project partners met together for the first time at the Kick Off Workshop in Amadora, Portugal. Hosted by Amadora’s Civil Protection team the workshop brought partners together to hear presentations from the array of organisations from across Europe who make up the project team.
 
