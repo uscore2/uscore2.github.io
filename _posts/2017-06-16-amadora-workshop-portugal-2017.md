@@ -18,3 +18,5 @@ The second day brought a summary of module feedback obtained from the first day 
 Bringing the second day of the Amadora workshop to a close was a presentation of community artwork to key organisations involved in a local resilience project and finally an outstanding demonstration of first aid skills by youth volunteers from the Red Cross.
 
 The UScore2 team left the workshop with an excellent awareness of progress to date and a keen focus on next steps.
+
+![DSC00149.JPG]({{site.baseurl}}/media/DSC00149.JPG)
