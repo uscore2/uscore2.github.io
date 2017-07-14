@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Draft Modules Circulated to IAB for Review
 ---
 The Uscore2 peer review methodology will take a modular approach based upon UNISDR's Ten Essentials for Making Cities Resilient campaign. Uscore2 modules have been designed to support the themes identified within the Ten Essentials, but also breakdown some of the areas which cities undertaking a peer review may wish to explore in greater depth. All modules exist in varying states of draft format, but those most developed were circulated yesterday to the project's International Advisory Board for feedback.
