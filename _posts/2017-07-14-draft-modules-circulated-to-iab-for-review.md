@@ -9,7 +9,7 @@ The Ten Essentials provides an operational guide for the Sendai Framework for Di
 
 The aim of the Sendai Framework is:
 
-"The substantial reduction of disaster risk and losses in lives, livelihoods and health and in the economic, physical, social, cultural and environmental assets of persons, businesses, communities and countries."
+_"The substantial reduction of disaster risk and losses in lives, livelihoods and health and in the economic, physical, social, cultural and environmental assets of persons, businesses, communities and countries."_
 
 By aligning with the Ten Essentials the Uscore2 project has taken a position whereby it can build upon an internationally recognised disaster resilience framework within a peer review format that can be applied between cities from different nations.
 
