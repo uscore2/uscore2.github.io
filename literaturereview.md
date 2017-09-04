@@ -1,1 +1,1 @@
-[Literature Review Download](https://github.com/uscore2/uscore2.github.io/blob/master/downloads/Literature%20review%20on%20city%20resilience%20peer%20review%20framework.pdf)
+[Literature Review Download](http://prose.io/#uscore2/uscore2.github.io/edit/master/downloads/Literature review on city resilience peer review framework.pdf)
