@@ -4,4 +4,4 @@ layout: article
 published: true
 ---
 
-[Literature Review Download](/downloads/Literature review on city resilience peer review framework.pdf)
+[Literature review on city resilience peer review framework](/downloads/Literature review on city resilience peer review framework.pdf)
