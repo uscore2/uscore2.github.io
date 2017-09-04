@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[Literature Review Download](https://github.com/uscore2/uscore2.github.io/blob/master/downloads/Literature%20review%20on%20city%20resilience%20peer%20review%20framework.pdf)
