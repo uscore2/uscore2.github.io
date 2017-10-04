@@ -54,5 +54,6 @@ Also involved from the University of Manchester is the Humanitarian and Conflict
 
 ## The staff involved include:
   [Professor Duncan Shaw](https://www.research.manchester.ac.uk/portal/duncan.shaw-2.html)  
-  [Dr Manuel López-Ibáñez](http://www.mbs.ac.uk/research/people/profiles/mlopez-ibanez)  
-  [Dr Chris Smith](http://www.mbs.ac.uk/research/people/profiles/csmith)
+  Dr Chris Smith
+  Dr Jennifer JBeezy Bealt
+  Dr Manuel López-Ibáñez
