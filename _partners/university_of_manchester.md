@@ -55,5 +55,5 @@ Also involved from the University of Manchester is the Humanitarian and Conflict
 ## The staff involved include:
   [Professor Duncan Shaw](https://www.research.manchester.ac.uk/portal/duncan.shaw-2.html)  
   Dr Chris Smith
-  Dr Jennifer JBeezy Bealt
+  Dr Jennifer Bealt
   Dr Manuel López-Ibáñez
