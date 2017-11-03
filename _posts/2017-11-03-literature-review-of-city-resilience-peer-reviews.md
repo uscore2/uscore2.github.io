@@ -10,3 +10,5 @@ These papers were analysed using the UNISDR 'Making Cities Resilient' campaign 1
 This report demonstrates that Uscore2, by drawing on a variety of literatures, supports a comprehensive approach to integrating concerns relating to urban resilience. Additionally, this review contributes to the nascent field of city peer reviews, providing foundations for further research, and supporting applicable findings for urban policy makers and stakeholders.
 
 This literature review has a number of implications for Uscore2 as its findings have helped to inform the design of the peer review modules, and will go on to support the design of the impact evaluation methodology used to assess the peer review process in the pilot review of Viggiano in October 2017.
+
+The Uscore2 Project peer review document can be downloaded [here](http://uscore2.eu/downloads/ "Uscore2 Peer Review Download").
