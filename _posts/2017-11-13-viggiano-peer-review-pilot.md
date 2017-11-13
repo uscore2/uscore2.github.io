@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Viggiano Uscore2 Peer Review Pilot
 ---
-On 25th-27th October the Uscore2 Viggiano Peer Review took place with members of the project team visiting Viggiano in the region of Potenza, Italy to carry out the pilot of the Uscore2 peer review tool. The Host Team in Viggiano selected 5 modules developed using the 10 Essential for Making Cities Resilient framework for review. These covered the following areas:
+On 25th-27th October the Uscore2 Viggiano Peer Review took place with members of the project team visiting Viggiano in the region of Potenza, Italy to carry out the pilot of the Uscore2 peer review methodology. The Host Team in Viggiano selected 5 modules developed using the 10 Essential for Making Cities Resilient framework for review. These covered the following areas:
 
 - E2 Module - Risk Assessment
 - E4 Module - Urban Development and DRR
