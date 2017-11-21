@@ -47,6 +47,7 @@ The UK has a robust disaster risk reduction framework underpinned by legislation
 ## PROJECT TEAM
 
 Jon Percival, Project Manager
+
 Anthony Dempsey, Project Assistant
 
 ## Visit the city's website:
