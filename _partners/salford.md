@@ -46,7 +46,7 @@ The UK has a robust disaster risk reduction framework underpinned by legislation
 
 ## Project Team
 
-Jon Percival, CBCI Project Manager
+Jon Percival, CBCI, Project Manager
 
 Anthony Dempsey, Project Assistant
 
