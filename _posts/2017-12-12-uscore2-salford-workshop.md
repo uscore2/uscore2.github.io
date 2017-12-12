@@ -11,4 +11,6 @@ During the two day workshop, Viggiano discussed the usefulness of the peer revie
 
 ![IMG_5485.jpg]({{site.baseurl}}/media/IMG_5485.jpg)
 
-The workshops provided useful insights into how the peer review mechanism can be developed, and took into account both Uscore2, and future considerations for a global city-city peer review process. 
+The workshops provided useful insights into how the peer review mechanism can be developed, and took into account both Uscore2, and future considerations for a global city-city peer review process.
+
+The workshop culminated in deciding the date for the next peer review which will take place in Amadora in April 2018. This provides an exciting opportunity to test the amended peer review tool and impact evaluation methodology, and to implement the lessons learnt from the pilot peer review in Viggiano.
