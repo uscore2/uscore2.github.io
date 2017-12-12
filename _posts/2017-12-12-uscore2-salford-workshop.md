@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Uscore2 Salford Workshop
 ---
 ## Uscore2 Salford Workshop, UK November 2017
