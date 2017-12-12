@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Uscore2 Salford Workshop
 ---
-## Uscore2 Salford Workshop, UK November 2017
-
 A recent workshop in Salford on Wednesday the 29th and Thursday the 30th of November saw the Uscore2 project partners meet for the first time since the pilot peer review in Viggiano. Hosted by Salford City Council, the workshop took place at the Imperial War Museum North, and brought partners together to share experiences from the peer review in Viggiano.
 
 ![IMG_5482.jpg]({{site.baseurl}}/media/IMG_5482.jpg)
