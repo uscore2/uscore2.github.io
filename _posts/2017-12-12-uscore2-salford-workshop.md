@@ -11,9 +11,4 @@ During the two day workshop, Viggiano discussed the usefulness of the peer revie
 
 ![IMG_5485.jpg]({{site.baseurl}}/media/IMG_5485.jpg)
 
-The workshops provided useful insights into how the peer review mechanism can be developed, and took into account both UScore2, and future considerations for a global city-city peer review process. 
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The workshops provided useful insights into how the peer review mechanism can be developed, and took into account both Uscore2, and future considerations for a global city-city peer review process. 
