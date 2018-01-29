@@ -8,6 +8,7 @@ Following the Viggiano peer review in October 2017 and subsequent Salford worksh
 The Portuguese city will play host to an international team of experts from Viggiano, Italy who will be supported by experts from Salford, United Kingdom to make up the Review Team. Members of the Review Team have yet to be selected, but will be experts in the modules that Amadora have chosen to be reviewed on:
 
 Module 1 - Disaster Risk Governance
+
 Module 6 - Strengthen Institutional Capacity for Resilience
 
 Over the course of the 3-day peer review, members of the Review Team will gather information from sources such as Amadora’s local government, emergency services, community groups and other stakeholders. Information will be gathered through an initial exchange of relevant documents prior to the peer review as well as presentations, interviews and focus groups during the event itself.
