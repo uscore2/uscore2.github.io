@@ -1,10 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Amadora Peer Review Announced
 ---
-Amadora Peer Review Announced
-
 Following the Viggiano peer review in October 2017 and subsequent Salford workshop in November 2017, which have allowed for refinement of the Uscore2 city-to-city peer review methodology, the project team are now pleased to announce that the Amadora peer review will take place between the 18th and 20th of April 2018.
 
 The Portuguese city will play host to an international team of experts from Viggiano, Italy who will be supported by experts from Salford, United Kingdom to make up the Review Team. Members of the Review Team have yet to be selected, but will be experts in the modules that Amadora have chosen to be reviewed on:
