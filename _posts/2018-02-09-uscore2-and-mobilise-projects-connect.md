@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Uscore2 and MOBILISE Projects Connect
 ---
 Uscore2 have linked in with the MOBILISE project to share knowledge and learning on disaster risk reduction.
@@ -18,5 +18,4 @@ The MOBILISE project poses 6 research questions:
 
 More information can be found regarding the MOBILISE project at the following link:
 
-http://www.mobilise-project.org.uk/ 
-
+http://www.mobilise-project.org.uk/
