@@ -18,4 +18,4 @@ The MOBILISE project poses 6 research questions:
 
 More information can be found regarding the MOBILISE project at the following link:
 
-http://www.mobilise-project.org.uk/
+[MOBILISE Project](http://www.mobilise-project.org.uk/)
