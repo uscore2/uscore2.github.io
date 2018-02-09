@@ -16,6 +16,6 @@ The MOBILISE project poses 6 research questions:
 5.	How can we establish a system dynamic model that can support the simulation of cascading effects on critical infrastructure systems due to hazard?
 6.	How can we construct a collaborative 3D environment based on near real-time 3D satellite data and analysis for supporting early response and damage assessment after a major disaster?
 
-More information can be found regarding the MOBILISE project at the following link:
+More information can be found regarding the MOBILISE project via the link below:
 
 [MOBILISE Project Website](http://www.mobilise-project.org.uk/)
