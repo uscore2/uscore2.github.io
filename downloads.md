@@ -3,7 +3,7 @@ title: Uscore2 Downloads
 layout: article
 published: true
 ---
-American Society of Public Administration Annual Conference 2018 (Denver) presentation, Dr Jennifer Bealt - to view 
+American Society of Public Administration Annual Conference 2018 (Denver) presentation, Dr Jennifer Bealt - to view [[click here]](downloads/ASPA Application v2.docx)
 
 American Society of Public Administration Annual Conference 2018 (Denver) application, Dr Jennifer Bealt - to view 
 
