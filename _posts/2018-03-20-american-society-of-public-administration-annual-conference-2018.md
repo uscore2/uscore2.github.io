@@ -11,6 +11,6 @@ This year, the theme for ASPA's conference was 'Mission Focused and Service Firs
 
 In one of the sessions focusing on disaster management, The University of Manchester presented the results of the systematic literature review undertaken as part of the Uscore2 project with a view to sharing knowledge gained during this process and inviting comment from other global perspectives. 
 
-![IMG_20180316_085824.jpg]({{site.baseurl}}/media/IMG_20180316_085824.jpg)![Denver skyline]({{site.baseurl}}/media/IMG_20180316_085824.jpg)
+![IMG_20180316_085824.jpg]({{site.baseurl}}/media/IMG_20180316_085824.jpg)![Denver skyline]
 
 Attending the conference provided useful insights into the challenges faced by governments and public administrators in managing disasters. Additionally it supports the collaborative nature of Uscore2 which promotes building partnerships and interdisciplinary approaches to learning as a means to improve city resilience.
