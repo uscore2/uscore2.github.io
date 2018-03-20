@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: American Society of Public Administration Annual Conference 2018
 ---
 The American Society of Public Administration (ASPA) held their annual conference in Denver from 9th March to 13th March 2018. ASPA brings together almost 1,300 practitioners, scholars and students to join theory with practice and share current trends and information in public administration with each other. 
