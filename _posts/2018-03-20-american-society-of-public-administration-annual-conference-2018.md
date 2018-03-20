@@ -14,3 +14,5 @@ In one of the sessions focusing on disaster management, The University of Manche
 ![Denver skyine]({{site.baseurl}}/media/IMG_20180316_085824.jpg)
 
 Attending the conference provided useful insights into the challenges faced by governments and public administrators in managing disasters. Additionally it supports the collaborative nature of Uscore2 which promotes building partnerships and interdisciplinary approaches to learning as a means to improve city resilience.
+
+Both the application and presentation for the ASPA conference can be downloaded [here](downloads/Uscore2 Why Peer Review v0.2.pdf)
