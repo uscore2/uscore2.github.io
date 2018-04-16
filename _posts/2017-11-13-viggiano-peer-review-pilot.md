@@ -3,6 +3,8 @@ layout: post
 published: true
 title: Viggiano Uscore2 Peer Review Pilot
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ec3LB-uJxc4" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 On 25th-27th October the Uscore2 Viggiano Peer Review took place with members of the project team visiting Viggiano in the region of Potenza, Italy to carry out the pilot of the Uscore2 peer review methodology. The Host Team in Viggiano selected 5 modules developed using the 10 Essential for Making Cities Resilient framework for review. These covered the following areas:
 
 - E2 Module - Risk Assessment
@@ -19,4 +21,4 @@ The Review Team are now obtaining feedback following the event as well as compil
 
 On 29th and 30th November a project workshop is being held in Salford, United Kingdom where the Viggiano Peer Review process will be further analysed in detail. This will facilitate the continued evolution of the Uscore2 city-to-city peer review tool and the impact evaluation methodology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ec3LB-uJxc4" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nUzwIAfNU00" frameborder="0" gesture="media" allowfullscreen></iframe>
