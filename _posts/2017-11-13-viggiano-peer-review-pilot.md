@@ -21,4 +21,4 @@ The Review Team are now obtaining feedback following the event as well as compil
 
 On 29th and 30th November a project workshop is being held in Salford, United Kingdom where the Viggiano Peer Review process will be further analysed in detail. This will facilitate the continued evolution of the Uscore2 city-to-city peer review tool and the impact evaluation methodology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nUzwIAfNU00" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUzwIAfNU00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
