@@ -15,6 +15,6 @@ The review will be undertaken on the following Uscore2 modules:
 
 The panel of expert reviewers will have the opportunity to study key Greater Manchester resilience documents in advance of the peer review visit.
 
-Site visits will play a key part of demonstrating the resilience of utility services in the region. Central to the review will be the opportunity to meet stakeholders who will give short presentations on their respective area and give the chance for the panel to ask questions of them in order to gain knowledge of how resilience plays a key part of Greater Manchester's structure.
+Site visits will play a key part of demonstrating the resilience of utility services in the region. Central to the review will be the opportunity to meet stakeholders who will make short presentations on their respective area and give the chance for the panel to ask questions of them in order to gain knowledge of how resilience plays a key part of Greater Manchester's structure.
 
 Following the review a report will be produced by the Portuguese panel identifying areas of good practice and recommendations.
