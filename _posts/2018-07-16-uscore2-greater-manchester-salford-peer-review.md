@@ -15,11 +15,11 @@ Day 1 of the review brought together representatives of the Greater Manchester C
 
 Day 2 took place at the Highways England Milnrow depot where civil engineering and highways experts presented on the resilience of the strategic road network followed by utility resilience presentations and site visits from Electricity Northwest and United Utilities.
 
-![IMG_9752.jpg]({{site.baseurl}}/media/IMG_9752.jpg)
+![IMG_9733.jpg]({{site.baseurl}}/media/IMG_9733.jpg)
 
 Day 3, the final day, was hosted at The University of Salford’s THINKlab where Councillor Antrobus shared his views on resilience while MHCLG discussed UK national recovery arrangements. AGMA CCRU covered the Greater Manchester approach to recovery while representatives of the GMCA covered the Greater Manchester Resilience Forum. Salford City Council discussed the recovery from the flooding event of 2015 and the Environment Agency covered their approach to post incident recovery which was further enhanced by a guided visit to the second Salford flood basin. The focus group session with the Environment Agency, Urban Vision and Salford City Council covered protective infrastructure and the build back better approach which has been adopted.
 
-![IMG_9755.jpg]({{site.baseurl}}/media/IMG_9755.jpg)
+
 
 Following the conclusion of the peer review the Portuguese review team returned home and will begin to prepare a report for Greater Manchester (Salford) taking into consideration the information that they were presented with during their visit. This will help to build a picture of Greater Manchester’s resilience and the Amadora team will identify areas of good practice and recommendations. With the assistance of The University of Manchester the review team will also carry out an impact evaluation. 
 
