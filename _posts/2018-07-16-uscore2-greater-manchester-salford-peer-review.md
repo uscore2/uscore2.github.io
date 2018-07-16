@@ -21,7 +21,6 @@ Day 3, the final day, was hosted at The University of Salford’s THINKlab where
 
 ![IMG_9782.jpg]({{site.baseurl}}/media/IMG_9782.jpg)
 
-
 Following the conclusion of the peer review the Portuguese review team returned home and will begin to prepare a report for Greater Manchester (Salford) taking into consideration the information that they were presented with during their visit. This will help to build a picture of Greater Manchester’s resilience and the Amadora team will identify areas of good practice and recommendations. With the assistance of The University of Manchester the review team will also carry out an impact evaluation. 
 
 The Uscore2 team are grateful to all participants who attended the event and assisted with its facilitation.
