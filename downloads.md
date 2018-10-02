@@ -1,5 +1,5 @@
 ---
-title: Uscore2 Downloads & Articles
+title: Uscore2 Downloads
 layout: article
 published: true
 ---
