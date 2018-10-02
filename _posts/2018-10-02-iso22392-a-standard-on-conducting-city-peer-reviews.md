@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ISO22392 a standard on conducting city peer reviews
 ---
 ISO22392 a standard on conducting city peer reviews
