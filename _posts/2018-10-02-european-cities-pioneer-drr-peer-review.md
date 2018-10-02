@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: European cities pioneer DRR peer review
 ---
 European cities pioneer DRR peer review
