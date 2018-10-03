@@ -19,3 +19,5 @@ Day Two
 
 Day Two picked up where Day One left off by continuing with table top exercises on the remaining modules. Discussion centred on the final amendments required by the city-to-city peer review tool and the impact evaluation methodology for DRR. Rounding up Day Two was planning for the Masterclasses that will be held in Barcelona and Rome during the month of November as well as exploration of the final report content.
 Following a successful workshop event partners in the project have taken back actions to their respective countries and will forge ahead with completing them ahead of the next series of deadlines.
+
+Following a successful workshop event partners in the project have taken back actions to their respective countries and will forge ahead with completing them ahead of the next series of deadlines.
