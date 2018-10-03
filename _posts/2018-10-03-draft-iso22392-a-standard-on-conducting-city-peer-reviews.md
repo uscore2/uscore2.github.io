@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Draft ISO22392 a standard on conducting city peer reviews
 ---
 Draft ISO22392 a standard on conducting city peer reviews
