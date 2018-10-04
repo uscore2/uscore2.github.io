@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Draft ISO22392 a standard on conducting city peer reviews
 ---
-Draft ISO22392 a standard on conducting city peer reviews
-
 A new standard on conducting city peer reviews for disaster risk reduction (DRR) was discussed today at the General Assembly of the International Standards Organisation in Geneva, Switzerland. The standard, ISO22392 “Conducting peer reviews for disaster risk reduction”, will bring together international experiences of conducting peer reviews for DRR across a number of countries to provide guidelines on how cities can benefit, organise and evaluate a peer review.
 
 ISO22392 was discussed within a session of how international standards can support global efforts to deliver Sustainable Development Goal 11, Sustainable Cities and Communities. The Sustainable Development Goals are a collection of 17 global goals set by the United Nations General Assembly.
