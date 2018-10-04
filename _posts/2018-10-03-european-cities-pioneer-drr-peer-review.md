@@ -3,8 +3,6 @@ layout: post
 published: true
 title: European cities pioneer DRR peer review
 ---
-European cities pioneer DRR peer review
-
 Source: United Nations Office for Disaster Risk Reduction - Regional Office for Europe (UNISDR EUR)
 
 Date: 28 September 2018
