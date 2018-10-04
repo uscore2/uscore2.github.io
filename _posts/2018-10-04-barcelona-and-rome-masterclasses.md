@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Barcelona and Rome Masterclasses
 ---
 Barcelona and Rome Masterclasses
