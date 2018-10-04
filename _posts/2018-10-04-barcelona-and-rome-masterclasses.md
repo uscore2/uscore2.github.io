@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Barcelona and Rome Masterclasses
 ---
-Barcelona and Rome Masterclasses
-
 The Uscore2 project will be holding masterclasses at two forthcoming events in Barcelona and Rome. On Tuesday 13th November 2018, the Barcelona Resilience Week (BRW) will be taking place within the Smart City Expo World Congress, which gathers hundreds of city representatives. Similarly, representatives of European countries, stakeholder groups and partners will gather in Rome, 21st to 23rd November 2018, for the European Forum on Disaster Risk Reduction (EFDRR).
 
 The Uscore2 project has designed and tested a generic, practical, city-to-city, disaster risk reduction peer review tool for cities across EU member states and beyond via the UNISDR Making Cities Resilient campaign (MCR). The project has involved collaborative work between the municipalities of Salford (UK), Amadora (Portugal) and Viggiano (Italy) as well as the University of Manchester (UK), UNISDR, the Ministry of Housing, Communities and Local Government (UK), Portuguese National Authority of Civil Protection and the Associazione di Protezione Civile Gruppo Lucano (Italy).
