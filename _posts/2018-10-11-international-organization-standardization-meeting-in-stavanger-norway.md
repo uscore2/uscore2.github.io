@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'International Organization Standardization Meeting in Stavanger, Norway'
 ---
 A working draft of a new international standard on conducting city peer reviews for resilience was discussed over a number of days at meetings held by the International Organization for Standardizations (ISO) in Stavanger Norway, where over 40 countries were represented. 
@@ -12,5 +12,3 @@ ISO22392 was presented to an international delegation of experts in the field of
 Professor Duncan Shaw, convenor of ISO Technical Committee 292, Working Group 5 ‘Community Resilience’ and project leader for the new ISO22392 led the review of the standard by experts, and was supported by Dr Jennifer Bealt, Research Associate at the University of Manchester. Both Duncan and Jennifer work closely on the UScore2 project, and draw on these experiences to develop ISO22392. 
 
 Note: The UScore2 consortium involves the cities of Salford, Amadora and Viggiano, the University of Manchester, UNISDR, the UK Department of Communities and Local Government, the Portuguese National Authority of Civil Protection and the Associazione di Protezione Civile Gruppo Lucano.
-
-
