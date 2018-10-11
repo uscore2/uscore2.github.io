@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Uscore2 Final Workshop, Brussels, Belgium'
 ---
+
 ![UN Props and Banners.JPG]({{site.baseurl}}/media/UN Props and Banners.JPG)
 
 The Uscore2 project final workshop took place on the 27th and 28th September 2018 in Brussels, Belgium. With the United Nations hosting the event, the international team travelled to the city to work their way through a busy agenda aimed at finalising the city-to-city peer review methodology ahead of dissemination at the Masterclass events in November.
