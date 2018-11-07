@@ -15,7 +15,7 @@ Uscore2 - Amadora Peer Review Feedback Report - to view [click here](downloads/U
 
 Uscore2 - Viggiano Peer Review Summary - to view [click here](downloads/V2 Viggiano Summary 6pg A5 - Final Designed Version.pdf)
 
-Uscore2 - Amadora Peer Review Summary - to view [click here](downloads/Amadora Summary 6pg A5 - Final Designed Version.pdf)
+
 
 ---------------------------------------------------------------------------------------------------------------
 ### Miscellaneous Documents
