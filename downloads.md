@@ -7,6 +7,8 @@ published: true
 
 ### Uscore2 Peer Review Modules
 
+Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to view [click here](downloads/Uscore2 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction DISSEMINATION VERSION.pdf)
+
 Module 6 Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
 
 -------------------------------------------------------------------------------------------------------------
