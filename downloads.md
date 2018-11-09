@@ -7,6 +7,7 @@ published: true
 
 ### Uscore2 Peer Review Modules
 
+Module 6 Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
 
 -------------------------------------------------------------------------------------------------------------
 
