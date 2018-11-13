@@ -12,7 +12,7 @@ quote: >-
   Working in partnership helps residents and businesses to recognise
   opportunities to realise our ambitions whilst meeting the challenges of a
   changing risk landscape. Greater Manchester is stronger together.
-quote_author: Mr. Tony Lloyd
+quote_author:
 quote_author_title: Mayor
 map:
   latitude: 53.4845812
