@@ -15,10 +15,7 @@ quote: >-
 quote_author:
 quote_author_title: Mayor
 map:
-  latitude: 53.4845812
-  longitude: -2.2841627
-  address: ' Amadora, Portugal'
-  zoom: 7
+  
 published: true
 show_map_on_detail_page: true
 ---
