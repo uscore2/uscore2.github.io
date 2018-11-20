@@ -13,6 +13,7 @@ Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to
 
 Module 6 Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
 
+Module 9 Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
 -------------------------------------------------------------------------------------------------------------
 
 ### Viggiano & Amadora Peer Review Feedback Reports
