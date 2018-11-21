@@ -35,6 +35,12 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 -------------------------------------------------------------------------------------------------------------
 
+### EFDRR 21st November 2018 Masterclass Presentations
+
+*COMING SOON*
+
+-------------------------------------------------------------------------------------------------------------
+
 ### Miscellaneous Documents
 
 American Society of Public Administration Annual Conference 2018 (Denver) presentation, Dr Jennifer Bealt - to view [click here](downloads/ASPA Presentation.pdf)
