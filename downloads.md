@@ -37,6 +37,8 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 ### EFDRR, Rome, 21st November 2018 Masterclass Presentations
 
+Below you will find the presentation files from the Uscore2 EFDRR Masterclass in order of their appearance on the agenda. The session took place at 14:30 in the Pininfarina Room at the Auditorium Della Tecnica, Rome.
+
 **Title: Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)**
 
 Speaker: Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
