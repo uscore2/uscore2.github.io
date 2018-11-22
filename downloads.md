@@ -37,16 +37,16 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 ### EFDRR, Rome, 21st November 2018 Masterclass Presentations
 
-1. Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)
-Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
+1. Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)																									
+Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)										
 To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
 
-2. EU engagement in national peer reviews and perspective on their impact
-Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations
+2. EU engagement in national peer reviews and perspective on their impact	
+Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations	
 To view presentation [click here](downloads/peer review general presentationTDN.pptx)
 
-3. Importance of peer reviews to the three cities involved in the project 
-Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
+3. Importance of peer reviews to the three cities involved in the project	
+Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK	
 To view presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
 
 4. How to conduct and evaluate a peer review: step-by-step guide 
