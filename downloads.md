@@ -37,38 +37,28 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 ### EFDRR, Rome, 21st November 2018 Masterclass Presentations
 
-Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
+A. Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
 
 To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
 
-*****
-
-Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations
+B. Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations
 
 To view presentation [click here](downloads/peer review general presentationTDN.pptx)
 
-*****
-
-Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
+C. Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
 1. To view Peer Reviews in DRR presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
 
 2. To view How to Conduct a Peer Review presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
 
-*****
-
-Dr. Jennifer Bealt, Research Associate, University of Manchester, UK 
+D. Dr. Jennifer Bealt, Research Associate, University of Manchester, UK 
 To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
 
-*****
-
-Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
+E. Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
 
 To view presentation [click here](downloads/Masterclass_Amadora.pptx)
 
-*****
-
-Giuseppe Guarino, General Director of the Gruppo Lucano and member of the HIA committee of Viggiano
+F. Giuseppe Guarino, General Director of the Gruppo Lucano and member of the HIA committee of Viggiano
 
 To view presentation [click here](downloads/Uscore2 Rome Masterclass-Guarino presentation_Final.ppt)
 
