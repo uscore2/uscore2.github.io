@@ -51,7 +51,8 @@ C. Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
 2. To view How to Conduct a Peer Review presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
 
-D. Dr. Jennifer Bealt, Research Associate, University of Manchester, UK 
+D. Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
+
 To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
 
 E. Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
