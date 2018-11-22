@@ -57,7 +57,7 @@ Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
 *****
 
-Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
+Dr. Jennifer Bealt, Research Associate, University of Manchester, UK 
 To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
 
 *****
