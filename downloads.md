@@ -50,11 +50,13 @@ Speaker: Thomas de Lannoy, European Commission, Directorate-General for European
 To view presentation [click here](downloads/peer review general presentationTDN.pptx)
 
 **Title: Importance of peer reviews to the three cities involved in the project**
+
 Speaker: Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK	
 
 To view presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
 
 **Title: How to conduct and evaluate a peer review: step-by-step guide**
+
 Speaker: Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
 To view presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
