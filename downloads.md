@@ -41,7 +41,7 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 - Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
 
-To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
+-To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
 
 2. EU engagement in national peer reviews and perspective on their impact
 
