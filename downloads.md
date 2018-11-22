@@ -57,13 +57,11 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 4. How to conduct and evaluate a peer review: step-by-step guide
 
- -Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
+- Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
 - To view presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
 
-5. How to use the impact evaluation methodology:
-
-- A step-by-step guide to conducting the impact evaluation methodology to assess the impacts and benefits of 	conducting a peer review for Host and Reviewer cities. Findings from the pilot of the IEM - Initial findings from assessing impact of three pilot peer reviews in Viggiano, Amadora and Salford.
+5. How to use the impact evaluation methodology: A step-by-step guide to conducting the impact evaluation methodology to assess the impacts and benefits of conducting a peer review for Host and Reviewer cities. Findings from the pilot of the IEM - Initial findings from assessing impact of three pilot peer reviews in Viggiano, Amadora and Salford.
 
 - Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
 
