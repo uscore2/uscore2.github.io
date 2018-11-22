@@ -39,7 +39,7 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 1. Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)
 
-Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
+- Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
 
 To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
 
