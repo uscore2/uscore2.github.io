@@ -37,49 +37,34 @@ Uscore2 - Salford Peer Review Summary - to view [click here](downloads/Uscore2 S
 
 ### EFDRR, Rome, 21st November 2018 Masterclass Presentations
 
-1. Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)
+Importance of peer reviews in strengthening DRR at a city level and meeting intended outcomes of the Sendai Framework (UNISDR)
+Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
+To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
 
-	Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
+EU engagement in national peer reviews and perspective on their impact
+Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations	
+To view presentation [click here](downloads/peer review general presentationTDN.pptx)
 
-	To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
+Importance of peer reviews to the three cities involved in the project	
+Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK	
+To view presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
 
-2. EU engagement in national peer reviews and perspective on their impact
+How to conduct and evaluate a peer review: step-by-step guide 
+Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
+To view presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
 
-	Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid 		Operations	
+How to use the impact evaluation methodology:
+A step-by-step guide to conducting the impact evaluation methodology to assess the impacts and benefits of 	conducting a peer review for Host and Reviewer cities. Findings from the pilot of the IEM - Initial findings from assessing impact of three pilot peer reviews in Viggiano, Amadora and Salford.
+Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
+To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
 
-	To view presentation [click here](downloads/peer review general presentationTDN.pptx)
+Case study of the use of one module in a peer review (Amadora, Portugal)
+Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
+To view presentation [click here](downloads/Masterclass_Amadora.pptx)
 
-3. Importance of peer reviews to the three cities involved in the project	
-
-	Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK	
-
-	To view presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
-
-4. How to conduct and evaluate a peer review: step-by-step guide 
-
-	Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
-
-	To view presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
-
-5. How to use the impact evaluation methodology:
-	A step-by-step guide to conducting the impact evaluation methodology to assess the impacts and benefits of 			conducting a peer review for Host and Reviewer cities. Findings from the pilot of the IEM - Initial findings from
-    assessing impact of three pilot peer reviews in Viggiano, Amadora and Salford.
-
-	Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
-
-	To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
-
-6. Case study of the use of one module in a peer review (Amadora, Portugal)
-
-	Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
-
-	To view presentation [click here](downloads/Masterclass_Amadora.pptx)
-
-7. Case study of the use of one module in a peer review (Viggiano, Italy)
-
-	Giuseppe Guarino, General Director of the Gruppo Lucano and member of the HIA committee of Viggiano
-
-	To view presentation [click here](downloads/Uscore2 Rome Masterclass-Guarino presentation_Final.ppt)
+Case study of the use of one module in a peer review (Viggiano, Italy)
+Giuseppe Guarino, General Director of the Gruppo Lucano and member of the HIA committee of Viggiano
+To view presentation [click here](downloads/Uscore2 Rome Masterclass-Guarino presentation_Final.ppt)
 
 
 -------------------------------------------------------------------------------------------------------------
