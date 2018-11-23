@@ -5,17 +5,33 @@ published: true
 ---
 -------------------------------------------------------------------------------------------------------------
 
-### Uscore2 Peer Review Modules
+### Uscore2 Peer Review Modules and Associated Documents
 
 Uscore2 Summary Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to view [click here](downloads/Uscore2 Summary Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction DISSEMINATION VERSION.pdf)
 
 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to view [click here](downloads/Uscore2 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction DISSEMINATION VERSION.pdf)
 
-Module 3 Strengthen Financial Capacity for Resilience (including Business Continuity) - to view [click here](downloads/Uscore2 Module 3 Strengthen Financial Capacity for Resilience including Business Continuity DISSEMINATION VERSION.pdf)
+Module 1: Organise for Disaster Resilience - coming soon
 
-Module 6 Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
+Module 2: Identify, Understand and Use Current and Future Risk Scenarios - to view [click here](downloads/)
 
-Module 9 Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
+Module 3: Strengthen Financial Capacity for Resilience (including Business Continuity) - to view [click here](downloads/Uscore2 Module 3 Strengthen Financial Capacity for Resilience including Business Continuity DISSEMINATION VERSION.pdf)
+
+Module 4: Pursue Resilient Urban Development and Design - coming soon
+
+Module 5: Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions - coming soon
+
+Module 6: Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
+
+Module 7: Understand and Strengthen Societal Capacity for Resilience - coming soon
+
+Module 8a: Increase Infrastructure Resilience - coming soon
+
+Module 8b: Public Health & Disaster Risk Reduction - coming soon
+
+Module 9: Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
+
+Module 10: Expedite Recovery and Build Back Better - coming soon
 
 -------------------------------------------------------------------------------------------------------------
 
