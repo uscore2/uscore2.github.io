@@ -11,6 +11,8 @@ Uscore2 Summary Step-by-Step Guide to City-to-City Peer Reviews for Disaster Ris
 
 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to view [click here](downloads/Uscore2 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction DISSEMINATION VERSION.pdf)
 
+Module 3 Strengthen Financial Capacity for Resilience (including Business Continuity) - to view [click here](downloads/Uscore2 Module 3 Strengthen Financial Capacity for Resilience (including Business Continuity) DISSEMINATION VERSION.pdf)
+
 Module 6 Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
 
 Module 9 Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
