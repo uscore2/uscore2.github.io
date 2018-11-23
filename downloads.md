@@ -43,43 +43,43 @@ Below you will find the presentation files from the Uscore2 European Forum for D
 
 Speaker: Andrew Mackay Bower, United Nations Office for Disaster Risk Reduction (UNISDR)
 
-To view presentation [click here](downloads/Local Peer Review PPT_AB.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Andrew Mackay Bower, UNISDR.pdf)
 
 **Title: EU engagement in national peer reviews and perspective on their impact**
 
 Speaker: Thomas de Lannoy, European Commission, Directorate-General for European Civil Protection and Humanitarian Aid Operations	
 
-To view presentation [click here](downloads/peer review general presentationTDN.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Thomas de Lannoy, European Commission.pdf)
 
 **Title: Importance of peer reviews to the three cities involved in the project**
 
 Speaker: Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK	
 
-To view presentation [click here](downloads/Uscore2 city-to-city peer reviews in Disaster Risk Reduction.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Kathryn Oldham, Greater Manchester 1.pdf)
 
 **Title: How to conduct and evaluate a peer review: step-by-step guide**
 
 Speaker: Dr. Kathryn Oldham OBE, Chief Resilience Officer, Greater Manchester, UK
 
-To view presentation [click here](downloads/Uscore2 city-to-city presentation how to conduct a peer review.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Kathryn Oldham, Greater Manchester 2.pdf)
 
 **Title: How to use the impact evaluation methodology: A step-by-step guide to conducting the impact evaluation methodology to assess the impacts and benefits of conducting a peer review for Host and Reviewer cities. Findings from the pilot of the IEM - Initial findings from assessing impact of three pilot peer reviews in Viggiano, Amadora and Salford.**
 
 Speaker: Dr. Jennifer Bealt, Research Associate, University of Manchester, UK
 
-To view presentation [click here](downloads/UoM UScore2 Masterclass Rome.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Jennifer Bealt, University of Manchester.pdf)
 
 **Title: Case study of the use of one module in a peer review (Amadora, Portugal)**
 
 Speaker: Luis Carvalho, Civil Protection Chief, Municipal Commander, Amadora, Portugal
 
-To view presentation [click here](downloads/Masterclass_Amadora.pptx)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Luis Carvalho, Amadora.pdf)
 
 **Title: Case study of the use of one module in a peer review (Viggiano, Italy)**
 
 Speaker: Giuseppe Guarino, General Director of the Gruppo Lucano and member of the HIA committee of Viggiano
 
-To view presentation [click here](downloads/Uscore2 Rome Masterclass-Guarino presentation_Final.ppt)
+To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Giuseppe Guarino, Viggiano.pdf)
 
 
 -------------------------------------------------------------------------------------------------------------
