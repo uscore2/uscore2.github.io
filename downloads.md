@@ -13,7 +13,7 @@ Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to
 
 Module 1: Organise for Disaster Resilience - coming soon
 
-Module 2: Identify, Understand and Use Current and Future Risk Scenarios - to view [click here](downloads/)
+Module 2: Identify, Understand and Use Current and Future Risk Scenarios - to view [click here](downloads/Uscore2 Module 2 Identify, Understand and Use Current and Future Risk Scenarios DISSEMINATION VERSION.pdf)
 
 Module 3: Strengthen Financial Capacity for Resilience (including Business Continuity) - to view [click here](downloads/Uscore2 Module 3 Strengthen Financial Capacity for Resilience including Business Continuity DISSEMINATION VERSION.pdf)
 
