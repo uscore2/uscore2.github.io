@@ -19,7 +19,7 @@ Module 3: Strengthen Financial Capacity for Resilience (including Business Conti
 
 Module 4: Pursue Resilient Urban Development and Design - coming soon
 
-Module 5: Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions - coming soon
+Module 5: Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions - to view [click here](downloads/Uscore2 Module 5 Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions DISSEMINATION VERSION.pdf)
 
 Module 6: Strengthen Institutional Capacity for Resilience - to view [click here](downloads/Uscore2 Module 6 Strengthen Institutional Capacity for Resilience DISSEMINATION VERSION.pdf)
 
