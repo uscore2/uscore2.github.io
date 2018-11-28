@@ -31,7 +31,7 @@ Module 8b: Public Health & Disaster Risk Reduction - coming soon
 
 Module 9: Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
 
-Module 10: Expedite Recovery and Build Back Better - coming soon
+Module 10: Expedite Recovery and Build Back Better - to view [click here](downloads/Uscore2 Module 10 Expedite Recovery and Build Back Better DISSEMINATION VERSION.pdf)
 
 -------------------------------------------------------------------------------------------------------------
 
