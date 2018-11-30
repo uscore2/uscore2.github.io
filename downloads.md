@@ -17,7 +17,7 @@ Module 2: Identify, Understand and Use Current and Future Risk Scenarios - to vi
 
 Module 3: Strengthen Financial Capacity for Resilience (including Business Continuity) - to view [click here](downloads/Uscore2 Module 3 Strengthen Financial Capacity for Resilience including Business Continuity DISSEMINATION VERSION.pdf)
 
-Module 4: Pursue Resilient Urban Development and Design - coming soon
+Module 4: Pursue Resilient Urban Development and Design - to view [click here](downloads/Uscore2 Module 4 Pursue Resilient Urban Development and Design DISSEMINATION VERSION.pdf)
 
 Module 5: Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions - to view [click here](downloads/Uscore2 Module 5 Safeguard Natural Buffers to Enhance Ecosystems’ Protective Functions DISSEMINATION VERSION.pdf)
 
