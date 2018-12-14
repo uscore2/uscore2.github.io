@@ -27,7 +27,7 @@ Module 7: Understand and Strengthen Societal Capacity for Resilience - to view [
 
 Module 8a: Increase Infrastructure Resilience - to view [click here](downloads/Uscore2 Module 8a Increase Infrastructure Resilience DISSEMINATION VERSION.pdf)
 
-Module 8b: Public Health & Disaster Risk Reduction - coming soon
+Module 8b: Public Health & Disaster Risk Reduction - to view [click here](downloads/Uscore2 Module 8b Public Health & Disaster Risk Reduction DISSEMINATION VERSION.pdf)
 
 Module 9: Ensure Effective Disaster Response - to view [click here](downloads/Uscore2 Module 9 Ensure Effective Disaster Response DISSEMINATION VERSION.pdf)
 
