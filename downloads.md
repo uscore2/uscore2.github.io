@@ -11,6 +11,8 @@ Uscore2 Summary Step-by-Step Guide to City-to-City Peer Reviews for Disaster Ris
 
 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction - to view [click here](downloads/Uscore2 Step-by-Step Guide to City-to-City Peer Reviews for Disaster Risk Reduction DISSEMINATION VERSION.pdf)
 
+Step-by-Step guide to the Impact Evaluation Methodology - to view [click here](downloads/Uscore2 Step-by-Step guide to the Impact Evaluation Methodology DISSEMINATION VERSION.pdf)
+
 Module 1: Organise for Disaster Resilience - to view [click here](downloads/Uscore2 Module 1 Organise for Disaster Resilience DISSEMINATION VERSION.pdf)
 
 Module 2: Identify, Understand and Use Current and Future Risk Scenarios - to view [click here](downloads/Uscore2 Module 2 Identify, Understand and Use Current and Future Risk Scenarios DISSEMINATION VERSION.pdf)
