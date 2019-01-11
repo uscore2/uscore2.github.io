@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Round Up of the Final Project Stages
 ---
 As the Uscore2 Project neared its final stages during the latter part of 2018 a number of important events took place which represented significant milestones for the development and dissemination of peer review methodology.
@@ -35,4 +35,3 @@ Reports of the peer review findings were presented as follows:
 •	December 2018 – Viggiano presented to Amadora
 
 As the fun and fireworks welcomed the New Year in it also brought the Uscore2 Project to an official end with only the administrative task of producing the final report for the European Union over the next few months outstanding. From all of the Uscore2 team we thank you for your continued interest in the project and hope that the peer review methodology serves you well in building your resilience.
-
