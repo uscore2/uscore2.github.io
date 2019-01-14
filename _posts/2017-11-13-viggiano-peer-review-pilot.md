@@ -23,4 +23,4 @@ On 29th and 30th November a project workshop is being held in Salford, United Ki
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nUzwIAfNU00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+ESERCITAZIONE CAMBASCAL 2017 Report - to view [click here](downloads/Relazione conclusiva cambascal 2017.pdf)
