@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Round Up of the Final Project Stages
+title: Round Up of Uscore2 2018 Quarter 4
 ---
 As the Uscore2 Project neared its final stages during the latter part of 2018 a number of important events took place which represented significant milestones for the development and dissemination of peer review methodology.
 
