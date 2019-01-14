@@ -112,7 +112,7 @@ American Society of Public Administration Annual Conference 2018 (Denver) presen
 
 American Society of Public Administration Annual Conference 2018 (Denver) application, Dr Jennifer Bealt - to view [click here](downloads/ASPA Application v2.pdf)
 
-Uscore2 Viggiano Peer Review ESERCITAZIONE CAMBASCAL 2017 Report - to view [click here](downloads/Relazione conclusiva cambascal 2017 (1).pdf)
+Uscore2 Viggiano Peer Review ESERCITAZIONE CAMBASCAL 2017 Report - to view [click here](downloads/Relazione conclusiva cambascal 2017.pdf)
 
 Uscore2: A Literature Review of City Resilience Peer Review , Dr Jennifer Bealt - to view [click here](/downloads/Review of City Resilience Peer Review FINAL.pdf)
 
