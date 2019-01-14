@@ -35,4 +35,4 @@ Reports of the peer review findings were presented as follows:
 - December 2018 – Amadora presented to Salford
 - December 2018 – Viggiano presented to Amadora
 
-As the fun and fireworks welcomed the New Year in it also brought the Uscore2 Project to an official end with only the administrative task of producing the final report for the European Union over the next few months outstanding. From all of the Uscore2 team we thank you for your continued interest in the project and hope that the peer review methodology serves you well in building your resilience.
+As the fun and fireworks welcomed the New Year in it also brought the Uscore2 Project to an official end with only the administrative task of producing the final report for the European Union over the next few months outstanding. From all of the Uscore2 team we thank you for your continued interest in the project and hope that the peer review methodology serves you well in enhancing your level of resilience.
