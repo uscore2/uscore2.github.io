@@ -3,7 +3,7 @@ layout: post
 published: true
 title: La Protezione Civile Italiana
 ---
-The Italian National Civil Protection journal featured an article which mentioned the Uscore2 project being part of the exercise undertaken during the Viggiano Peer Review.
+The Italian national civil protection publication, La Protezione Civile Italiana, featured an article which referenced the Uscore2 project's involvement in the live exercise undertaken during the Viggiano Peer Review which ran 25th-27th October 2017.
 
 ![]({{site.baseurl}}/media/PCI%20dicembre%202017884.jpg)
 
