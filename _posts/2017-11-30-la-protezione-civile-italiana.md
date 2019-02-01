@@ -1,8 +1,7 @@
 ---
 layout: post
-published: false
+published: true
 title: La Protezione Civile Italiana
 ---
-## A New Post
+![PCI dicembre 2017884.jpg]({{site.baseurl}}/media/PCI dicembre 2017884.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
