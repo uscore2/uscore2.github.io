@@ -39,6 +39,6 @@ As part of the Uscore2 Project pilots of the peer review tool were carried out i
 
 Reports of the peer review findings were presented as follows:
 
-- October 2018 – Salford presented to Viggiano
+- October 2018 – Salford presented to Viggiano [Click](https://uscore2.eu/downloads/Uscore2%20-%20Viggiano%20Peer%20Review%20Feedback%20Report.pdf)
 - December 2018 – Amadora presented to Salford
 - December 2018 – Viggiano presented to Amadora
