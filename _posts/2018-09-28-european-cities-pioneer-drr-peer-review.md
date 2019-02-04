@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: European cities pioneer DRR peer review
+title: 'PreventionWeb: European cities pioneer DRR peer review'
 ---
 Source: United Nations Office for Disaster Risk Reduction - Regional Office for Europe (UNISDR EUR)
 
