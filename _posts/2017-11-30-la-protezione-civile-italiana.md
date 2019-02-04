@@ -7,6 +7,8 @@ The Italian national civil protection publication, La Protezione Civile Italiana
 
 Uscore2 Viggiano Peer Review ESERCITAZIONE CAMBASCAL 2017 Report - to view [click here.](_posts/Relazione conclusiva cambascal 2017 (1).pdf)
 
+[https://uscore2.eu/downloads/Relazione%20conclusiva%20cambascal%202017.pdf](https://uscore2.eu/downloads/Relazione%20conclusiva%20cambascal%202017.pdf)
+
 ![]({{site.baseurl}}/media/PCI%20dicembre%202017884.jpg)
 
 ![]({{site.baseurl}}/media/PCI%20dicembre%202017885.jpg)
