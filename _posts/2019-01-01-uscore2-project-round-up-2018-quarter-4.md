@@ -39,7 +39,7 @@ As part of the Uscore2 Project pilots of the peer review tool were carried out i
 
 Reports of the peer review findings were presented as follows:
 
-- October 2018 – Salford presented to Viggiano [Viggiano Peer Review Feedback Report](https://uscore2.eu/downloads/Uscore2%20-%20Viggiano%20Peer%20Review%20Feedback%20Report.pdf)
-- December 2018 – Amadora presented to Salford [Greater Manchester (Salford) Peer Review
+- October 2018 – Salford presented to Viggiano - [Viggiano Peer Review Feedback Report](https://uscore2.eu/downloads/Uscore2%20-%20Viggiano%20Peer%20Review%20Feedback%20Report.pdf)
+- December 2018 – Amadora presented to Salford - [Greater Manchester (Salford) Peer Review
 Feedback Report](https://uscore2.eu/downloads/Uscore2%20-%20Greater%20Manchester%20-%20Salford%20-%20Peer%20Review%20Feedback%20Report.pdf)
-- December 2018 – Viggiano presented to Amadora [Amadora Peer Review Feedback Report](https://uscore2.eu/downloads/Uscore2%20-%20Amadora%20Peer%20Review%20Feedback%20Report.pdf)
+- December 2018 – Viggiano presented to Amadora - [Amadora Peer Review Feedback Report](https://uscore2.eu/downloads/Uscore2%20-%20Amadora%20Peer%20Review%20Feedback%20Report.pdf)
