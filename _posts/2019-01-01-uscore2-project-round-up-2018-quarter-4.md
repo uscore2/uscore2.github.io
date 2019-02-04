@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Uscore2 Project Round Up 2018 Quarter 4
 ---
-As the Uscore2 Project neared its final stages during the latter part of 2018 a number of important events took place which represented significant milestones for the development and dissemination of peer review methodology.
+As the development of the Uscore2 Project neared its final stages during the latter part of 2018, a number of important events took place which represented significant milestones for the advancement and dissemination of peer review methodology.
 
 ### Barcelona Resilience Week, Barcelona, Spain 11-16th November 2018
 
