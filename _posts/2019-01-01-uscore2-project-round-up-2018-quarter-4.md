@@ -13,6 +13,8 @@ The objective of BRW was to harness the commitment of initiatives such as the Ma
 
 The Uscore2 Masterclass workshop presented the results of the project and demonstrated the mechanism for an independent and transparent assessment, adding clear value to building local and national resilience. The workshop also emphasised the importance of city-to-city peer learning and sharing of best practices.
 
+![Image credit: http://urbanresiliencehub.org/action/]({{site.baseurl}}/media/BRW Header.jpg)
+
 To view the Barcelona Resilience Week programme, please [click here.](https://uscore2.eu/downloads/Programme_Barcelona_Resilience_Week.pdf)
 
 ### European Forum for Disaster Risk Reduction, Rome, Italy 21-23rd November 2018
