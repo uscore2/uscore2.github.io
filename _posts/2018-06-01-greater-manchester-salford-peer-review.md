@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Greater Manchester (Salford) Peer Review Date Confirmed
+title: 'Date Confirmed: Greater Manchester (Salford) Peer Review'
 ---
 
 It has now been confirmed that the Uscore2 Greater Manchester (Salford) Peer Review will take place 9th-11th July 2018.
