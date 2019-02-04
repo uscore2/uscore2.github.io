@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Viggiano Uscore2 Peer Review Pilot
+title: 'Event Summary: Viggiano Peer Review'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ec3LB-uJxc4" frameborder="0" gesture="media" allowfullscreen></iframe>
 
