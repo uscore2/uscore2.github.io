@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Uscore2 Greater Manchester (Salford) Peer Review
+title: 'Event Summary: Greater Manchester (Salford) Peer Review'
 ---
 July 9-11th saw Salford welcome the Amadora peer review team to Greater Manchester. The 3 day event brought the panel of Portuguese experts to the city region to review two of the Uscore2 methodology modules:
 
