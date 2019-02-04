@@ -13,7 +13,7 @@ The objective of BRW was to harness the commitment of initiatives such as the Ma
 
 The Uscore2 Masterclass workshop presented the results of the project and demonstrated the mechanism for an independent and transparent assessment, adding clear value to building local and national resilience. The workshop also emphasised the importance of city-to-city peer learning and sharing of best practices.
 
-Module 1: Organise for Disaster Resilience - to view [click here](downloads/Uscore2 Module 1 Organise for Disaster Resilience DISSEMINATION VERSION.pdf)
+Module 1: Organise for Disaster Resilience - to view [click here](downloads/BRW-Programme.pdf)
 
 ### European Forum for Disaster Risk Reduction, Rome, Italy 21-23rd November 2018
 Representatives of European countries, stakeholder groups and partners gathered in Rome, Italy from 21-23rd of November 2018 for the European Forum on Disaster Risk Reduction (EFDRR). The 2018 EFDRR built on the outcomes of the 2017 EFDRR held in Turkey, 2017 Global Platform for Disaster Risk Reduction held in Mexico and aim to address key issues that can accelerate the implementation of the Sendai Framework in coherence with the Sustainable Development Goals and the Paris Agreement. The event represented an opportunity to exchange and move forward on local level resilience, economic risks and reaching the Sendai Framework 2020 priority targets.
