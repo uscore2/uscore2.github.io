@@ -20,11 +20,11 @@ Representatives of European countries, stakeholder groups and partners gathered 
 
 At the event members of the Uscore2 team made presentations about:
 
-- peer reviews and the Sendai Framework
-- how to conduct a peer review
-- case studies drawn from project experience
-- the Impact Evaluation Methodology developed as part of the project
-- learning points gathered throughout the project
+- Peer reviews and the Sendai Framework
+- How to conduct a peer review
+- Case studies drawn from project experience
+- The Impact Evaluation Methodology developed as part of the project
+- Learning points gathered throughout the project
 
 ### Viggiano, Amadora and Salford Peer Review Presentations
 
