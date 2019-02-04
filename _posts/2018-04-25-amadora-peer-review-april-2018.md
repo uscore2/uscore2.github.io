@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Event Summary: Amadora Peer Review April 2018'
+title: 'Event Summary: Amadora Peer Review'
 ---
 The Amadora peer review was held between the 18th and 20th of April 2018. The Portuguese city hosted an international team of experts from Viggiano, Italy who were supported by experts from Salford, United Kingdom to make up the Review Team. Amadora chose to be reviewed on the following modules:
 
