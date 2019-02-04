@@ -33,7 +33,7 @@ At the event members of the Uscore2 team made presentations on the following sub
 
 ### Viggiano, Amadora and Salford Peer Review Presentations
 
-![]({{site.baseurl}}/media/LC%20KO%20Edit.png)![LC KO Edit 2.png]({{site.baseurl}}/media/LC KO Edit.png)
+![LC KO Edit 2.png]({{site.baseurl}}/media/LC KO Edit 2.png)
 
 As part of the Uscore2 Project pilots of the peer review tool were carried out in each of the Uscore2 partner cities. Following review, the Uscore2 partner city that carried out the peer review formulated a report to capture and consolidate the findings of the activity. During October and December 2018 each of the cities that carried out the review returned to the city they reviewed to present the report and its findings back to stakeholders.
 
