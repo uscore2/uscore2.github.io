@@ -19,8 +19,6 @@ To view the Barcelona Resilience Week programme, please [click here.](https://us
 
 ### European Forum for Disaster Risk Reduction, Rome, Italy 21-23rd November 2018
 
-![Image credit: https://www.unisdr.org/conference/2018/efdrr]({{site.baseurl}}/media/efdrr-logo-3.png)
-
 Representatives of European countries, stakeholder groups and partners gathered in Rome, Italy from 21-23rd of November 2018 for the European Forum on Disaster Risk Reduction (EFDRR). The 2018 EFDRR built on the outcomes of the 2017 EFDRR held in Turkey, 2017 Global Platform for Disaster Risk Reduction held in Mexico and aim to address key issues that can accelerate the implementation of the Sendai Framework in coherence with the Sustainable Development Goals and the Paris Agreement. The event represented an opportunity to exchange and move forward on local level resilience, economic risks and reaching the Sendai Framework 2020 priority targets.
 
 At the event members of the Uscore2 team made presentations on the following subjects:
@@ -32,8 +30,6 @@ At the event members of the Uscore2 team made presentations on the following sub
 - Learning points gathered throughout the project
 
 ### Viggiano, Amadora and Salford Peer Review Presentations
-
-![efdrr-logo-3.1.png]({{site.baseurl}}/media/efdrr-logo-3.1.png)
 
 As part of the Uscore2 Project pilots of the peer review tool were carried out in each of the Uscore2 partner cities. Following review, the Uscore2 partner city that carried out the peer review formulated a report to capture and consolidate the findings of the activity. During October and December 2018 each of the cities that carried out the review returned to the city they reviewed to present the report and its findings back to stakeholders.
 
