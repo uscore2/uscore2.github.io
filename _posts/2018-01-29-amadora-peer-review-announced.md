@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Date Confirmed: Amadora Peer Review Announced'
+title: 'Date Confirmed: Amadora Peer Review'
 ---
 Following the Viggiano peer review in October 2017 and subsequent Salford workshop in November 2017, which have allowed for refinement of the Uscore2 city-to-city peer review methodology, the project team are now pleased to announce that the Amadora peer review will take place between the 18th and 20th of April 2018.
 
