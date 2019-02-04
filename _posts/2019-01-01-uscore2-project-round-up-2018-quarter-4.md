@@ -18,7 +18,7 @@ To view the Barcelona Resilience Week programme, please [click here](_posts/Prog
 ### European Forum for Disaster Risk Reduction, Rome, Italy 21-23rd November 2018
 Representatives of European countries, stakeholder groups and partners gathered in Rome, Italy from 21-23rd of November 2018 for the European Forum on Disaster Risk Reduction (EFDRR). The 2018 EFDRR built on the outcomes of the 2017 EFDRR held in Turkey, 2017 Global Platform for Disaster Risk Reduction held in Mexico and aim to address key issues that can accelerate the implementation of the Sendai Framework in coherence with the Sustainable Development Goals and the Paris Agreement. The event represented an opportunity to exchange and move forward on local level resilience, economic risks and reaching the Sendai Framework 2020 priority targets.
 
-At the event members of the Uscore2 team made presentations about:
+At the event members of the Uscore2 team made presentations on the following subjects:
 
 - Peer reviews and the Sendai Framework
 - How to conduct a peer review
