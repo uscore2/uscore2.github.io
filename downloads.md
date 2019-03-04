@@ -39,8 +39,7 @@ Module 10: Expedite Recovery and Build Back Better - to view [click here](downlo
 
 ### Final Report of Uscore2
 
-Final Report of Uscore2: City-to-city local level Peer Review on Disaster Risk Reduction
-- to view [click here](downloads/Final Report of Uscore2 City to city local level Peer Review on Disaster Risk Reduction v1.1 ECHOSUB2016743543PREV04.pdf)
+Final Report of Uscore2: City-to-city local level Peer Review on Disaster Risk Reduction - to view [click here](downloads/Final Report of Uscore2 City to city local level Peer Review on Disaster Risk Reduction v1.1 ECHOSUB2016743543PREV04.pdf)
 
 Final Report of Uscore2 - Appendix 1: Evaluation of project management/implementation process City-to-city local level Peer Review on Disaster Risk Reduction - to view [click here](downloads/Final Report of Uscore2 Appendix 1 Evaluation of project management implementation process City to city local level Peer Review on Disaster Risk Reduction ECHOSUB2016743543PREV04 V1.1.pdf)
 
