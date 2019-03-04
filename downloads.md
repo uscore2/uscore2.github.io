@@ -44,7 +44,7 @@ Final Report of Uscore2: City-to-city local level Peer Review on Disaster Risk R
 
 Final Report of Uscore2 - Appendix 1: Evaluation of project management/implementation process City-to-city local level Peer Review on Disaster Risk Reduction - to view [click here](downloads/Final Report of Uscore2 Appendix 1 Evaluation of project management implementation process City to city local level Peer Review on Disaster Risk Reduction ECHOSUB2016743543PREV04 V1.1.pdf)
 
-Final Report of Uscore2 - Appendix 2: Presentation of the technical results and deliverables City-to-city local level Peer Review on Disaster Risk Reduction - to view [click here](Final Report of Uscore2 - Appendix 2: Presentation of the technical results and deliverables City-to-city local level Peer Review on Disaster Risk Reduction)
+Final Report of Uscore2 - Appendix 2: Presentation of the technical results and deliverables City-to-city local level Peer Review on Disaster Risk Reduction - to view [click here](downloads/Final Report of Uscore2 Appendix 2 Presentation of the technical results and deliverables ECHOSUB2016743543PREV04 V1.1.pdf)
 
 -------------------------------------------------------------------------------------------------------------
 
