@@ -19,7 +19,6 @@ In this thought we develop a thematic multidisciplinary program for knowledge sh
 
 On day 1 of the conference the Uscore2 Project Manager, Jon Percival, delivered a presentation on the Uscore2 city-to-city peer review methodology at the Fórum Municipal Luísa Todi. The presentation covered the collaborative approach to the development of the methodology that included international partner cities from Italy, Portugal and the United Kingdom as well as UNISDR, an academic body and government agencies. 
 
-![JP presenting at ICRSC 2019.JPG]({{site.baseurl}}/media/JP presenting at ICRSC 2019.JPG)
 
 Central to the presentation was the practical application of the methodology which was piloted in Viggiano (Italy), Amadora (Portugal) and Salford (United Kingdom). The lessons learnt from using the methodology in cities with differing scales and risk profiles was instrumental in shaping the development of the Uscore2 approach.
 
