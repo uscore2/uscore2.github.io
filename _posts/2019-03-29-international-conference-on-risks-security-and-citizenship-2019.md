@@ -13,7 +13,7 @@ The second International Conference on Risks, Security and Citizenship took plac
 
 With this event, we pretend to reflect on the problematic of risk in the context of the implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030 at the local level, in coherence with the three pillars of the international agenda: International Strategy for Disaster Risk Reduction, Objectives of Sustainable Development and the Action Plan for Climate Action.
 
-In this thought we develop a thematic multidisciplinary program for knowledge sharing and the application of methodologies regarding the reduction of Disaster Risk, as well has the safeguard of the security of citizens and their communities.” [Test 1](http://www.smpcb.pt/icrsc2019/en/apresentacao.htm "Test 2")
+In this thought we develop a thematic multidisciplinary program for knowledge sharing and the application of methodologies regarding the reduction of Disaster Risk, as well has the safeguard of the security of citizens and their communities.” [Visit the ICRSC 2019 website](http://www.smpcb.pt/icrsc2019/en/apresentacao.htm "Link to ICRSC 2019 website")
 
 ![ICRSC 2019 Programme Crop with white background.jpg]({{site.baseurl}}/media/ICRSC 2019 Programme Crop with white background.jpg)
 
