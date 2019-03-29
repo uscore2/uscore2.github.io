@@ -19,6 +19,6 @@ On day 1 of the conference the Uscore2 Project Manager, Jon Percival, delivered 
 
 ![JP presenting at ICRSC 2019.JPG]({{site.baseurl}}/media/JP presenting at ICRSC 2019.JPG)
 
-To view the International Conference on Risks, Security and Citizenship programme, please [click here.](https://uscore2.eu/downloads/Programme_ICRSC2019.pdf)
+To view the full International Conference on Risks, Security and Citizenship programme, please [click here.](https://uscore2.eu/downloads/Programme_ICRSC2019.pdf)
 
 ![ICRSC 2019 Programme Crop.jpg]({{site.baseurl}}/media/ICRSC 2019 Programme Crop.jpg)
