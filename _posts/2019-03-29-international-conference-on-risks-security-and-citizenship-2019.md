@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'International Conference on Risks, Security and Citizenship 2019'
 ---
 The second International Conference on Risks, Security and Citizenship took place on the 28 and 29 of March 2019 in Setúbal, Portugal. The theme of the conference was “Risk Management and Climate Change”. The purpose of the conference was to acknowledge that climate change is now widely recognised as one of the most prominent risks and challenges faced by humanity.
