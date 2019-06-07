@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Global Platform for Disaster Risk Reduction
+title: 'Global Platform for Disaster Risk Reduction, 13-17 May 2019'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnUy7g2YXyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
