@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Global Platform for Disaster Risk Reduction
 ---
-https://youtu.be/ZnUy7g2YXyk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnUy7g2YXyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Global Platform for Disaster Risk Reduction is a biennial multi-stakeholder forum established by the UN General Assembly to review progress, share knowledge and discuss the latest developments and trends in reducing disaster risk.
 
