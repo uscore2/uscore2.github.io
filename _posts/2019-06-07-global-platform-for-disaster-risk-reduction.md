@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Global Platform for Disaster Risk Reduction
 ---
-# Global Platform for Disaster Risk Reduction 13-17 May 2019, Geneva, Switzerland
-
 https://youtu.be/ZnUy7g2YXyk
 
 The Global Platform for Disaster Risk Reduction is a biennial multi-stakeholder forum established by the UN General Assembly to review progress, share knowledge and discuss the latest developments and trends in reducing disaster risk.
@@ -20,4 +18,3 @@ The participation of representatives from a wide range of sectors of governments
 Kathy Oldham presented the Uscore2 Project on the IGNITE stage on 17 May 2019, further details can be found here:
 
 https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074
-
