@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Global Platform for Disaster Risk Reduction
 ---
 ## A New Post
