@@ -3,6 +3,6 @@ layout: post
 published: true
 title: Global Platform for Disaster Risk Reduction
 ---
-## A New Post
+## Global Platform for Disaster Risk Reduction 2019, Geneva, Switzerland
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
