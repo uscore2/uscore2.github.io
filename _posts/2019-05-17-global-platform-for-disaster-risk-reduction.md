@@ -17,4 +17,4 @@ The participation of representatives from a wide range of sectors of governments
 
 Kathy Oldham presented the Uscore2 Project on the IGNITE stage on 17 May 2019, further details can be found here:
 
-https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074
+[https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074](https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074)
