@@ -18,3 +18,5 @@ The participation of representatives from a wide range of sectors of governments
 Kathy Oldham presented the Uscore2 Project on the IGNITE stage on 17 May 2019, further details can be found here:
 
 [https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074](https://www.unisdr.org/conference/2019/globalplatform/programme/ignite-stage/view?id=1074)
+
+Cost-effective approaches that assist cities to help one another, to develop new perspectives and find different ways of addressing disaster risk and to share best practice, are increasingly important. Peer reviews, where two cities from different countries can work together to explore and examine local civil protection mechanisms, offer an independent and transparent way of doing this. This presentation will offer a way for cities to make progress towards achieving the global ambition for every city to have a resilience strategy in place. Participants will be able to take their learning from this session to arrange a peer review of disaster risk reduction in their own home cities.
