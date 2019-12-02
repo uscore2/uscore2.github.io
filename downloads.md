@@ -118,9 +118,11 @@ To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Gius
 
 ### Miscellaneous Documents
 
-American Society of Public Administration Annual Conference 2018 (Denver) presentation, Dr Jennifer Bealt - to view [click here](downloads/ASPA Presentation.pdf)
+[Third International Conference Risks, Security and Citizenship](http://www.smpcb.pt/icrsc/en/index.htm) 2019 (Setubal, Portgual) presentation, Jon Percival - to view [click here](downloads/)
 
-American Society of Public Administration Annual Conference 2018 (Denver) application, Dr Jennifer Bealt - to view [click here](downloads/ASPA Application v2.pdf)
+American Society of Public Administration Annual Conference 2018 (Denver, USA) presentation, Dr Jennifer Bealt - to view [click here](downloads/ASPA Presentation.pdf)
+
+American Society of Public Administration Annual Conference 2018 (Denver, USA) application, Dr Jennifer Bealt - to view [click here](downloads/ASPA Application v2.pdf)
 
 Uscore2 Viggiano Peer Review ESERCITAZIONE CAMBASCAL 2017 Report - to view [click here](downloads/Relazione conclusiva cambascal 2017.pdf)
 
