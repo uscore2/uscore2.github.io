@@ -118,7 +118,7 @@ To view presentation [click here](downloads/Uscore2 EFDRR Rome 21 Nov 2018, Gius
 
 ### Miscellaneous Documents
 
-[Third International Conference Risks, Security and Citizenship](http://www.smpcb.pt/icrsc/en/index.htm) 2019 (Setubal, Portgual) presentation, Jon Percival - to view [click here](downloads/)
+[Third International Conference Risks, Security and Citizenship](http://www.smpcb.pt/icrsc/en/index.htm) 2019 (Setubal, Portgual) presentation, Jon Percival - to view [click here](downloads/An International Peer Review of Disaster Risk Reduction.pdf)
 
 American Society of Public Administration Annual Conference 2018 (Denver, USA) presentation, Dr Jennifer Bealt - to view [click here](downloads/ASPA Presentation.pdf)
 
